@@ -1,2 +1,14 @@
 # Reflections after the research trip
 
+I made a six week research trip to Greece, Turkey, France and Sweden in summer 2014. Since that I have been systematically collecting pictures of artifacts that have the Flower of Life symbol printed, carved or other way presented on them. Some websites already had a good collection of the occurrences at that point. However, I think my personal findings on archaeological sites and museums following exhausting research on the Internet has brought up new, interesting artifacts that are not really collected in this form anywhere else before.
+
+
+Occurrence of the Flower of Life in Egypt was first reported by the New Age author Drunvalo Melchizedek in his lectures in 80's and 90's. Later the Flower of Life was officially presented in his two volume book "*The Ancient Secret of the Flower of Life*" (1999-2000). Melchizedek is the author of the modern term the **Flower of Life** which is used to describe the particular geometrical figure below: 
+
+![The Flower of Life](https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png)
+
+Due to Melchizedek background in the New Age philosophy, many topics surrounding the Flower of Life are highly controversial. 
+
+[Flower of Life wiki page](http://en.wikipedia.org/wiki/Flower_of_Life) (in August 2014) states that one of the earliest occurrences of the Flower of Life is in the [Assyrian carpet stone](https://commons.wikimedia.org/wiki/File:Floor_decoration_from_the_palace_of_King_Ashurbanipal.jpg) dated at around 650 BC. The wiki page also questions the dating of the Flower of Life that is drawn on the Osirian temple stone in Abydos, Egypt. While dating of the Flower of Life in Abydos is debated, it is evident that the symbol was known already in 1600-1400 BC. We have objects from that time which show the same decoration. These objects originate in Egypt Thebes [[item 2](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/)], Northern Iran Marlik [[item 3](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/)], Greece Mycenae [[item 1](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/)] and Cyprus [[item 5](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/)].
+
+Note: the Flower of Life should not be confused with the [Fleur-de-lis](https://en.wikipedia.org/wiki/Fleur-de-lis) or the [Tree of Life](https://en.wikipedia.org/wiki/Tree_of_life) symbols. I will call the Flower of Life later by the abbreviation FOL.
