@@ -2,10 +2,7 @@
 
 I made a six week research trip to Greece, Turkey, France and Sweden in summer 2014. Since that I have been systematically collecting pictures of artifacts that have the Flower of Life symbol printed, carved or other way presented on them. Some websites already had a good collection of the occurrences at that point. However, I think my personal findings on archaeological sites and museums following exhausting research on the Internet has brought up new, interesting artifacts that are not really collected in this form anywhere else before.
 
-
 Occurrence of the Flower of Life in Egypt was first reported by the New Age author Drunvalo Melchizedek in his lectures in 80's and 90's. Later the Flower of Life was officially presented in his two volume book "*The Ancient Secret of the Flower of Life*" (1999-2000). Melchizedek is the author of the modern term the **Flower of Life** which is used to describe the particular geometrical figure below: 
-
-![The Flower of Life](https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png)
 
 Due to Melchizedek background in the New Age philosophy, many topics surrounding the Flower of Life are highly controversial. 
 
