@@ -4,7 +4,7 @@ I made a six week research trip to Greece, Turkey, France and Sweden in summer 2
 
 Occurrence of the Flower of Life in Egypt was first reported by the New Age author Drunvalo Melchizedek in his lectures in 80's and 90's. Later the Flower of Life was officially presented in his two volume book "*The Ancient Secret of the Flower of Life*" (1999-2000). Melchizedek is the author of the modern term the **Flower of Life** which is used to describe the particular geometrical figure below: 
 
-<img title="The Flower of Life" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png" align="center" />
+![The Flower of Life](https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png)
 
 Due to Melchizedek background in the New Age philosophy, many topics surrounding the Flower of Life are highly controversial. 
 
