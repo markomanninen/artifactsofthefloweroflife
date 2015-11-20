@@ -20,4 +20,5 @@ The Flower of Life term is often used more broadly to describe different formati
 * [item 3](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Marlik, Northern Iran
 * [item 5](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Cyprus
 
+
 Many topics surrounding the FOL are highly controversial. This is due to Melchizedeks' background in the New Age philosophy. But that shouldn't limit people doing further research and finding the origin of the symbol.
