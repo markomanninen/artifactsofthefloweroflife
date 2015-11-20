@@ -12,7 +12,6 @@ The Flower of Life term is often used more broadly to describe different formati
 
 > Note: the Flower of Life motif should not be confused with the [Fleur-de-lis](https://en.wikipedia.org/wiki/Fleur-de-lis) or the [Tree of Life](https://en.wikipedia.org/wiki/Tree_of_life) symbols.
 
-Many topics surrounding the FOL are highly controversial. This is due to Melchizedeks' background in the New Age philosophy. But that shouldn't limit people doing further research and finding the origin of the symbol.
 
 [Flower of Life wiki page](http://web.archive.org/web/20150413033856/http://en.wikipedia.org/wiki/Flower_of_Life) (in August 2014) states that one of the earliest occurrences of the FOL is in the [Assyrian carpet stone](https://commons.wikimedia.org/wiki/File:Floor_decoration_from_the_palace_of_King_Ashurbanipal.jpg) dated at around 650 BC. The wiki page also questions the dating of the FOL that is drawn on the Osirian temple stone in Abydos, Egypt. While dating of the FOL in Abydos is debated, it is evident that the geometrical formation of the symbol was known already in 1600-1400 BC. From that time we have objects which show the same decoration motif. Objects are:
 
@@ -21,3 +20,4 @@ Many topics surrounding the FOL are highly controversial. This is due to Melchiz
 * [item 3](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Marlik, Northern Iran
 * [item 5](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Cyprus
 
+Many topics surrounding the FOL are highly controversial. This is due to Melchizedeks' background in the New Age philosophy. But that shouldn't limit people doing further research and finding the origin of the symbol.
