@@ -23,5 +23,13 @@
                 "color": "#FFF"
             }
         }
+    },
+    
+    "styles": {
+        "website": "media/website.css",
+        "ebook": "media/ebook.css",
+        "pdf": "media/pdf.css",
+        "mobi": "media/mobi.css",
+        "epub": "media/epub.css"
     }
 }
