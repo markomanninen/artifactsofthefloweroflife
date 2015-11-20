@@ -2,7 +2,7 @@
 
 ## FOL
 
-Flower of Life
+Abbreviation for the Flower of Life, concave triangle geometrical figure.
 
 ## Cownose
 
