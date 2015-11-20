@@ -21,3 +21,8 @@ figcaption {
     border-width: 5px;
     border-style: double;
 }
+
+#page-book-details .details-readme section table thead,
+.book .book-body .page-wrapper .page-inner section.normal table thead {
+    display: hidden;
+}
