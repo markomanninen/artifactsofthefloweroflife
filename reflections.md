@@ -8,9 +8,9 @@ Occurrence of the Flower of Life in Egypt was first reported by the New Age auth
 
 ![The Flower of Life](https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png)
 
-In public the Flower of Life term is used more broadly to describe different formation phases of the symbol. I will also use term in more general way in this essay. I will use the Flower of Life term to denote the general pattern as well as different parts of the generation of the symbol.
+The Flower of Life term is often used more broadly to describe different formation phases of the symbol. I will use the Flower of Life term to denote the general pattern as well as different parts of the generation of the symbol. I will call the Flower of Life later by the abbreviation FOL.
 
-> I will call the Flower of Life later by the abbreviation FOL.
+> Note: the Flower of Life motif should not be confused with the [Fleur-de-lis](https://en.wikipedia.org/wiki/Fleur-de-lis) or the [Tree of Life](https://en.wikipedia.org/wiki/Tree_of_life) symbols.
 
 Many topics surrounding the FOL are highly controversial. This is due to Melchizedeks' background in the New Age philosophy. But that shouldn't limit people doing further research and finding the origin of the symbol.
 
