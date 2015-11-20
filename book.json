@@ -27,9 +27,9 @@
     
     "styles": {
         "website": "media/website.css",
-        "ebook": "media/ebook.css",
-        "pdf": "media/pdf.css",
-        "mobi": "media/mobi.css",
-        "epub": "media/epub.css"
+        "ebook": "media/website.css",
+        "pdf": "media/website.css",
+        "mobi": "media/website.css",
+        "epub": "media/website.css"
     }
 }
