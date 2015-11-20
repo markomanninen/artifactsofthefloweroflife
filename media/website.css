@@ -14,7 +14,7 @@ figcaption {
     color: #666;
 }
 
-figure img {
+.book .book-body .page-wrapper .page-inner section.normal figure img {
     border: 1px solid #AAA;
     border-right-color: #333;
     border-bottom-color: #333;
