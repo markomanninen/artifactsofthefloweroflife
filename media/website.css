@@ -18,4 +18,6 @@ figcaption {
     border: 1px solid #AAA;
     border-right-color: #333;
     border-bottom-color: #333;
+    border-width: 5px;
+    border-style: double;
 }
