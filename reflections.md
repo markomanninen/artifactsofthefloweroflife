@@ -4,6 +4,8 @@ I made a six week self-funded research trip to Greece, Turkey, France and Sweden
 
 Some websites already had a good collection of occurrences of the symbol at the moment of writing this (August 2014). However, my personal findings on archaeological sites and museums followed by exhausting research on the Internet has brought up new interesting occurrences of the Flower of Life. Artifacts of the Flower of Life in this form and scale are not collected anywhere else before, as far as I know.
 
+> I will call the Flower of Life later by the abbreviation FOL.
+
 Occurrence of the Flower of Life in Egypt was first reported by the New Age author Drunvalo Melchizedek in his lectures in 80's and 90's. Later the Flower of Life was officially presented in his two volume book "*The Ancient Secret of the Flower of Life*" (1999-2000). Melchizedek first proclaimed the modern term **Flower of Life**. In his books the Flower of Life is described by the particular geometrical figure shown below:
 
 ![The Flower of Life](https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png)
@@ -19,4 +21,3 @@ Many topics surrounding the Flower of Life are highly controversial. This is due
 * [item 3](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Marlik, Northern Iran
 * [item 5](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Cyprus
 
-Note: the Flower of Life should not be confused with the [Fleur-de-lis](https://en.wikipedia.org/wiki/Fleur-de-lis) or the [Tree of Life](https://en.wikipedia.org/wiki/Tree_of_life) symbols. I will call the Flower of Life later by the abbreviation FOL.
