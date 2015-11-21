@@ -1,17 +1,5 @@
 # Glossary
 
-## Flower of Life
-
-A concave equilateral triangle tiling. A geometrical figure that known at least from the second millennium BC in the ancient Mesopotamia.
-
-## FOL
-
-Abbreviation for the Flower of Life.
-
 ## Apsamikku
 
-Or Apsamikkum. A concave square, geometrical figure in the Old Babylonian mathematical texts. Often translated as *cownose* which refers to the exterior shape of the Stringray fish.
-
-## Cownose
-
-See: Apsamikku.
+Or Apsamikkum. The geometrical concave square figure in the Old Babylonian mathematical texts. Often translated as the *Cownose* which refers to the exterior shape of the Stringray fish. The Apsamikku pattern is compared to the Flower of Life, which is seen as the concave equilateral triangle tiling pattern.
