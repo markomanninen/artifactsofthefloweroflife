@@ -18,12 +18,16 @@ The pillar [cone mosaic](http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Perg
 
 ![Cone mosaics © BrokenSphere / Wikimedia Commons](./media/StoneConeMosaics.jpg)
 
-The Sumerian brown stone [cylinder seal](http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180) with two six petal rosettes originates from 3000 BC. Similar [seals](http://www.ucpress.edu/op.php?isbn=9780520049277) are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). Six petal rosette is a partial symbol inside the FOL pattern as well. Prerequisite for the generation of the FOL was fulfilled in Mesopotamia already in the 3rd millennium BC.
+**Cylinder seal**
+
+The Sumerian brown stone [cylinder seal](http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180) with two six petal rosettes originates from 3000 BC. Similar [seals](http://www.ucpress.edu/op.php?isbn=9780520049277) are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). Six petal rosette is a partial symbol inside the FOL pattern as well.
+
+**Banal design**
 
 The creation of the FOL symbol is started by drawing six intersecting circles around the seventh central circle. The FOL is easier to draw than the Cownose with a plain drafting compass (or divider). In the FOL you continue forming the pattern from simple and direct intersection points. In the Cownose pattern you need to find perpendicular lines and right angles with more complicated procedure. This can be verified by doing both figures manually. Thus we could expect to see the FOL appearing on artifacts before the Cownose.
 
-But surprisingly conclusion based strictly on artifacts is that four (or eight) pointed shapes like Cownose were far more prominent. Only later six pointed shapes like the FOL was used as a decoration motif.
+But surprisingly sum and substance based strictly on known artifacts is that four (and eight) pointed shapes like the Cownose were antecedent and far more prominent. Only later six pointed shapes like the FOL seems to have been used as a decoration motif.
 
 Based on above considerations, we can safely make the next conjecture:
 
-> In the beginning of the 2nd millennium BC, people in the ancient Mesopotamia were playing with construction elements and pattern we find in the Flower of Life.
+> Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC. In the beginning of the 2nd millennium BC, people were playing with construction elements and pattern we find in the Flower of Life symbol.
