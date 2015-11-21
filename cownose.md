@@ -19,3 +19,6 @@ It is probable that the Cownose pattern came somewhere from the ancient Fertile 
 In the "*[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)*" by Lawergren & Gurney, the sound hole of a lyre or a harp is also called Apsamikku. But shape of the hole resembles more an equilateral concave triangle than a square (ibid. Plate X).
 
 It could rather be that Apsamikku generally refers to a hole, a window or a frame in the figure, not the exact shape of it. Determining the case is outside of the scope of this essay, but intriguing enough. If the FOL symbol/pattern had any particular name for ancients, I leave it for future speculations.
+
+![Ceremonial Vessel from Harappa &copy LACMA](CeremonialVessel.jpg)
+
