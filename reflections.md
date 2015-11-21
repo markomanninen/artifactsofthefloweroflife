@@ -6,7 +6,7 @@ Some websites already had a good collection of occurrences of the symbol at the 
 
 Occurrence of the Flower of Life in Egypt was first reported by the New Age author Drunvalo Melchizedek in his lectures in 80's and 90's. Later the Flower of Life was officially presented in his two volume book "*The Ancient Secret of the Flower of Life*" (1999-2000). Melchizedek first proclaimed the modern term **Flower of Life**. In his books Melchizedek depicts the Flower of Life by the particular geometrical figure:
 
-![The Flower of Life](https://upload.wikimedia.org/wikipedia/commons/6/69/Flower-of-Life-small.png)
+![The Flower of Life](./media/Flower-of-Life.png)
 
 The Flower of Life term is often used more broadly to describe different formation phases of the symbol. I will use the Flower of Life term to denote the general pattern as well as different parts of the generation of the symbol. I will call the Flower of Life later by the abbreviation FOL.
 
