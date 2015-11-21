@@ -6,9 +6,9 @@ Intersecting circles forming the concave square or so-called Apsamikku is shown 
 
 ![Cownose -pattern](./media/Apsamikku.png)
 
-Apsamikku is translated as *cownose* referring to the exterior shape of the [Stringray](https://en.wikipedia.org/wiki/Cownose_ray#/media/File:Cownose_Rays.jpg) fish. Naming convention in the current geometric context is a bit confusing. Cow-nose likeness of the Stringray comes from the lobes and a notched head of the Stringray. This is why the Stringray fish is also called the Cownose. The Apsamikku symbol doesn't look like the nose of a cow. It looks like the peripheral shape of the Cownose fish.
+Apsamikku is translated as *cownose* which refers to the exterior shape of the [Stringray](https://en.wikipedia.org/wiki/Cownose_ray#/media/File:Cownose_Rays.jpg) fish. Naming convention in the current geometric context is a bit confusing. Cow-nose likeness of the Stringray comes from the lobes and a notched head of the Stringray. This is why the Stringray fish is also called the Cownose. The Apsamikku symbol doesn't look like the nose of a cow. It looks like the peripheral shape of the Cownose fish.
 
-![Cownose rays](./media/cownoseray.jpg)
+![Cownose rays &copy; Doc Lucio](./media/cownoseray.jpg)
 
 [Ceremonial vessel](https://commons.wikimedia.org/wiki/File:Ceremonial_Vessel_LACMA_AC1997.93.1.jpg) from Indus Valley civilization period (2600-2450 BC) and [other objects](http://www.pinterest.com/markomanninen/cows-nose/) from Harappa and Mohenjo-daro indicates that this particular symbol was known in the Indus Valley already in 3000 BC. According to Robson "*The apsamikku in Neo-Babylonian Mathematics*" (page 214) the Cownose design was known:
 
@@ -16,4 +16,6 @@ Apsamikku is translated as *cownose* referring to the exterior shape of the [Str
 
 It is probable that the Cownose pattern came somewhere from the ancient Fertile Crescent.
 
-In the "*[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)*" by Lawergren & Gurney, sound hole of a lyre or a harp is also called Apsamikkum. But shape of the hole resembles more an equilateral concave triangle than a square (ibid. Plate X). It could rather be that Apsamikkum generally refers to a hole, a window or a frame in the figure, not the exact shape of it. Determining the case is outside of the scope of the essay, but intriguing enough. If the FOL symbol/pattern had any particular name for ancients, I leave it for future speculations.
+In the "*[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)*" by Lawergren & Gurney, the sound hole of a lyre or a harp is also called Apsamikku. But shape of the hole resembles more an equilateral concave triangle than a square (ibid. Plate X).
+
+It could rather be that Apsamikku generally refers to a hole, a window or a frame in the figure, not the exact shape of it. Determining the case is outside of the scope of this essay, but intriguing enough. If the FOL symbol/pattern had any particular name for ancients, I leave it for future speculations.
