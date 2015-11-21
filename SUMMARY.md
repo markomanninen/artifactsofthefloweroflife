@@ -8,7 +8,7 @@
 * [Early visible traces](earlytraces.md)
 * [At the dawn of the Common Era](commonera.md)
 * [1500 AC and still going strong](1500ad.md)
-* [List of Flowers](listofflowers.md)
+* [List of the FOLs](listofflowers.md)
    * [2000 BC – 0](2000-0bc.md)
    * [0 – 2000 AD](0-2000ad.md)
    * [Undated](undated.md)
