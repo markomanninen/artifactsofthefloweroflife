@@ -18,7 +18,7 @@ According to Robson "*The apsamikku in Neo-Babylonian Mathematics*" (page 214) t
 
 It is probable that the Cownose pattern came somewhere from the ancient Fertile Crescent. At least the earliest evidences we know comes from that area.
 
-![Ceremonial Vessel from Harappan, 2600-2450 BC © LACMA  / Wikimedia Commons](./media/CeremonialVessel.jpg)
+![Ceremonial Vessel from Harappan, 2600-2450 BC © LACMA](./media/CeremonialVessel.jpg)
 
 In the "*[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)*" by Lawergren & Gurney, the sound hole of a lyre or a harp is also called Apsamikku. But shape of the hole resembles more an equilateral concave triangle than a square (ibid. Plate X).
 
