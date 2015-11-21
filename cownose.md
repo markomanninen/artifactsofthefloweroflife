@@ -10,7 +10,7 @@ The Apsamikku is translated as the Cownose which refers to the exterior shape of
 
 ![Cownose rays &copy; Doc Lucio](./media/cownoseray.jpg)
 
-[Ceremonial vessel](https://commons.wikimedia.org/wiki/File:Ceremonial_Vessel_LACMA_AC1997.93.1.jpg) from Indus Valley civilization period (2600-2450 BC) and [other objects](http://www.pinterest.com/markomanninen/cows-nose/) from Harappa and Mohenjo-daro indicates that the Cownose pattern was known in the Indus Valley already in 3000 BC.
+[Ceremonial vessel](https://en.wikipedia.org/wiki/Indus_Valley_Civilization#/media/File:Ceremonial_Vessel_LACMA_AC1997.93.1.jpg) from Indus Valley civilization period (2600-2450 BC) and [other objects](http://www.pinterest.com/markomanninen/cows-nose/) from Harappa and Mohenjo-daro indicates that the Cownose pattern was known in the Indus Valley already in 3000 BC.
 
 According to Robson "*The apsamikku in Neo-Babylonian Mathematics*" (page 214) the Cownose design was known:
 
