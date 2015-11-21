@@ -13,7 +13,7 @@ figcaption {
     font-size: 80%;
     color: #666;
 }
-
+/*
 .book .book-body .page-wrapper .page-inner section.normal figure img {
     border: 1px solid #AAA;
     border-right-color: #333;
@@ -21,8 +21,13 @@ figcaption {
     border-width: 5px;
     border-style: double;
 }
-
+*/
 #page-book-details .details-readme section table thead,
 .book .book-body .page-wrapper .page-inner section.normal table thead {
     display: none;
+}
+
+div[data-filepath="reflections.md"] figure img {
+    width: %50;
+    height: %50;
 }
