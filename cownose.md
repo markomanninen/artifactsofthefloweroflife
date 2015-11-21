@@ -8,7 +8,7 @@ Intersecting circles forming the concave square or the so-called Apsamikku is sh
 
 The Apsamikku is translated as the Cownose which refers to the exterior shape of the [Stringray](https://en.wikipedia.org/wiki/Cownose_ray#/media/File:Cownose_Rays.jpg) fish. Naming convention in the current geometric context is a bit confusing. Cow-nose likeness of the Stringray comes from the lobes and a notched head of the Stringray. This is why the Stringray fish is also called the Cownose ray. The Apsamikku symbol doesn't look like the nose of a cow. It looks like the peripheral shape of the Cownose ray.
 
-![Cownose rays &copy; Doc Lucio](./media/cownoseray.jpg)
+![Cownose rays &copy; Doc Lucio / Wikimedia Commons](./media/cownoseray.jpg)
 
 [Ceremonial vessel](https://en.wikipedia.org/wiki/Indus_Valley_Civilization#/media/File:Ceremonial_Vessel_LACMA_AC1997.93.1.jpg) from Indus Valley civilization period (2600-2450 BC) and [other objects](http://www.pinterest.com/markomanninen/cows-nose/) from Harappa and Mohenjo-daro indicates that the Cownose pattern was known in the Indus Valley already in 3000 BC.
 
@@ -18,7 +18,7 @@ According to Robson "*The apsamikku in Neo-Babylonian Mathematics*" (page 214) t
 
 It is probable that the Cownose pattern came somewhere from the ancient Fertile Crescent. At least the earliest evidences we know comes from that area.
 
-![Ceremonial Vessel from Harappan, 2600-2450 BC &copy LACMA](./media/CeremonialVessel.jpg)
+![Ceremonial Vessel from Harappan, 2600-2450 BC &copy LACMA  / Wikimedia Commons](./media/CeremonialVessel.jpg)
 
 In the "*[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)*" by Lawergren & Gurney, the sound hole of a lyre or a harp is also called Apsamikku. But shape of the hole resembles more an equilateral concave triangle than a square (ibid. Plate X).
 
