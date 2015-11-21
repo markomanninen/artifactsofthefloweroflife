@@ -12,8 +12,7 @@ The Flower of Life term is often used more broadly to describe different formati
 
 > Note: the Flower of Life symbol should not be confused with the [Fleur-de-lis](https://en.wikipedia.org/wiki/Fleur-de-lis) or the [Tree of Life](https://en.wikipedia.org/wiki/Tree_of_life) motifs.
 
-
-Flower of Life [wiki page](http://web.archive.org/web/20150413033856/http://en.wikipedia.org/wiki/Flower_of_Life) (in August 2014) states that one of the earliest occurrences of the FOL is in the Assyrian [carpet stone](https://commons.wikimedia.org/wiki/File:Floor_decoration_from_the_palace_of_King_Ashurbanipal.jpg) (650 BC). The wiki page also questions the dating of the FOL that is drawn on the Osirian temple stone in Abydos, Egypt. While dating of the FOL in Abydos is debated, it is evident that the geometrical formation of the symbol was known already in 1600-1400 BC. From that time we have artifacts which show the very same decoration motif. Artifacts are:
+Flower of Life [wiki page](http://web.archive.org/web/20150413033856/http://en.wikipedia.org/wiki/Flower_of_Life) (in August 2014) states that one of the earliest occurrences of the FOL is in the Assyrian [stone carpet](https://commons.wikimedia.org/wiki/File:Floor_decoration_from_the_palace_of_King_Ashurbanipal.jpg) (650 BC). The wiki page also questions the dating of the FOL that is drawn on the Osirian temple stone in Abydos, Egypt. While dating of the FOL in Abydos is debated, it is evident that the geometrical formation of the symbol was known already in 1600-1400 BC. From that time we have artifacts which show the very same decoration motif. Artifacts are:
 
 * [Golden rosettes](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Mycenae, Greece
 * [Cosmetic boxes](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Thebes, Egypt
