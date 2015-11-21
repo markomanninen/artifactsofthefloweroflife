@@ -1,12 +1,14 @@
 # Cownose
 
-Geometrical practice relating to intersecting circles have a long tradition. Practice can be seen from mathematical clay tablets available since Old Babylonian period (2000-1600 BC). 
+Educated geometrical practice relating to intersecting circles have a long tradition. We can see it from mathematical clay tablets available since Old Babylonian period (2000-1600 BC).
 
-Eleanor Robson shows the image of the concave square or so-called Apsamikku on her book "*[Mesopotamian mathematics](https://www.academia.edu/1261766/Mesopotamian_mathematics_page_proofs_)*". Simple depiction of the four petal rosette pattern in question is shown below:
+Intersecting circles forming the concave square or so-called Apsamikku is shown in the book "*[Mesopotamian mathematics](https://www.academia.edu/1261766/Mesopotamian_mathematics_page_proofs_)*" by Eleanor Robson. Simple depiction of the four petal rosette pattern in question looks like this:
 
-![Cownose -pattern](https://floweroflifemystery.files.wordpress.com/2014/09/nacc88yttocc88kuva-2014-9-23-kello-18-26-34.png?w=200&h=200)
+![Cownose -pattern](./media/Apsamikku.png)
 
-Apsamikku is translated as *cownose* referring to the exterior shape of the [Stringray](https://en.wikipedia.org/wiki/Cownose_ray#/media/File:Cownose_Rays.jpg) fish. Naming convention in the current geometric context is a little bit confusing. Cow-nose likeness of the fish comes from the lobes and a notched head of the Stringray. This is why the Stringray fish is also called the Cownose. The Apsamikku symbol doesn't look like the nose of the Cow. It looks like the peripheral shape of the Cownose fish.
+Apsamikku is translated as *cownose* referring to the exterior shape of the [Stringray](https://en.wikipedia.org/wiki/Cownose_ray#/media/File:Cownose_Rays.jpg) fish. Naming convention in the current geometric context is a bit confusing. Cow-nose likeness of the Stringray comes from the lobes and a notched head of the Stringray. This is why the Stringray fish is also called the Cownose. The Apsamikku symbol doesn't look like the nose of a cow. It looks like the peripheral shape of the Cownose fish.
+
+![Cownose rays](./media/cownoseray.jpg)
 
 [Ceremonial vessel](https://commons.wikimedia.org/wiki/File:Ceremonial_Vessel_LACMA_AC1997.93.1.jpg) from Indus Valley civilization period (2600-2450 BC) and [other objects](http://www.pinterest.com/markomanninen/cows-nose/) from Harappa and Mohenjo-daro indicates that this particular symbol was known in the Indus Valley already in 3000 BC. According to Robson "*The apsamikku in Neo-Babylonian Mathematics*" (page 214) the Cownose design was known:
 
