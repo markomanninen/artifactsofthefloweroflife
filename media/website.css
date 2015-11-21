@@ -13,15 +13,16 @@ figcaption {
     font-size: 80%;
     color: #666;
 }
-/*
+
 .book .book-body .page-wrapper .page-inner section.normal figure img {
     border: 1px solid #AAA;
     border-right-color: #333;
     border-bottom-color: #333;
     border-width: 5px;
     border-style: double;
+    width: %50;
 }
-*/
+
 #page-book-details .details-readme section table thead,
 .book .book-body .page-wrapper .page-inner section.normal table thead {
     display: none;
@@ -30,8 +31,9 @@ figcaption {
 .book .book-body .page-wrapper .page-inner section.normal figure img[alt="The Flower of Life"] {
     width: %50;
     height: %50;
-    max-width: %50;
-    max-height: %50;
-    min-width: %50;
-    min-height: %50;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal ol,
+.book .book-body .page-wrapper .page-inner section.normal ul {
+    margin-bottom: 10px;
 }
