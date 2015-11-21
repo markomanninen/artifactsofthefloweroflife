@@ -20,4 +20,4 @@ Flower of Life [wiki page](http://web.archive.org/web/20150413033856/http://en.w
 * [Golden and silver goblets](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Marlik, Northern Iran
 * [Ivory whorls](https://www.gitbook.com/book/markomanninen/artifacts-of-the-flower-of-life/) from Cyprus
 
-Many topics surrounding the FOL are highly controversial. This is due to Melchizedek's background in the New Age philosophy. But that shouldn't limit people doing further research and finding the origin of the symbol.
+Many topics surrounding the FOL are highly controversial. This is due to Melchizedek's background in the New Age philosophy. But that shouldn't limit people doing further research and seeking the origin of the symbol.
