@@ -1,6 +1,12 @@
 # Theorizing the origins
 
-Main goal of documenting and listing artifacts of the FOL is to become more aware of the historical origin of the symbol. That's why I'd like to theorize a little bit of the origin of the FOL first. After speculations I will selectively list main occurrences of the FOL symbol.
+Main goal of documenting and listing artifacts of the FOL is to become more aware of the historical origin of the symbol. That's why I'd like to theorize a little bit of the origin of the FOL first. After speculations I'm going to describe occurrences of the Flower of Life according to three time spans:
+
+1. early traces from 1500 BC to 200 BC
+2. beginning of the Common Era from 200 BC to 100 AD
+3. Common Era until Middle Age from 100 AD to 1500 AD 
+
+Then I will selectively list main occurrences of the FOL symbol companied by pictures.
 
 More popular symbol from ancient times, the Cownose symbol, is crucial to understand the FOL. It will give required historical and symbolical context to the FOL. The Cownose symbol is a notable and a lot researched figure so I won't use time to list occurrences of it. I'm just going to pinpoint some research journals and books mentioning the Cownose.
 
