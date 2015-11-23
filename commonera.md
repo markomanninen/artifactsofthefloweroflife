@@ -9,5 +9,3 @@ Intriguing question about the influence and usage of the FOL symbol comes by its
 Without going any deeper into the subject, it must be mentioned that Roman Imperial was spread up to Thrace in 180 AD leaving behind several floor mosaics with the FOL symbol. These mosaics can nowadays be witnessed on excavated sites in Bulgaria and Italy, also in Spain and France.
 
 The painting on the wall of temple in Syria desert is highly interesting and urges deeper research. Wall is full of symbols of the FOL in different forms. This resembles figure settings in Abydos wall and on the other hand notes of Leonardo da Vinci.
-
-If I would really need to guess the origin of the geographical area, where the FOL was first used in its fullest magnitude, my bet would be on upper Mesopotamia. So rich is the tradition of using geometrical forms, especially usage of the six petal rosette. Tradition there has lasted long and rich.
