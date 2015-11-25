@@ -15,6 +15,7 @@
 * [Map of flowers](map.md)
 * [Conclusions?](conclusions.md)
 * [References](references.md)
+* [Pictures](pictures.md)
 * [Keywords](keywords.md)
 * [Credits](credits.md)
 
