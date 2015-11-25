@@ -6,7 +6,7 @@
 
 ![Intersecting circles on lunette (zoom) © Marko Manninen / Creative Commons](https://floweroflifemystery.files.wordpress.com/2014/10/nacc88yttocc88kuva-2014-10-16-kello-16-19-45.png?w=474)
 
-A six petal flower lunette above the door of the Orthodox chapel (upper picture). More complex pattern of the intersecting circles can be seen on both sides of the center circle when picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (© Marko Manninen / Creative Commons)
+A six petal flower lunette above the door of the Orthodox chapel (upper picture). More complex pattern of the intersecting circles can be seen on both sides of the center circle when picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photo © Marko Manninen / Creative Commons)
 
 
 ### Jewish painting
@@ -20,14 +20,14 @@ A Jewish painting that has a Hebrew inscription around the circle of the Flower 
 
 ![Assyrian wall decoration © Sanjin Đumišić](https://i0.wp.com/media-cache-ak0.pinimg.com/474x/62/75/46/627546a39c0dee62f38f0920673a23c6.jpg)
 
-Presumably Assyrian [wall decoration](http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/) in the Pergamon Museum in Berlin. Undated. (© Sanjin Đumišić)
+Presumably Assyrian [wall decoration](http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/) in the Pergamon Museum in Berlin. Undated. (Photo © Sanjin Đumišić)
 
 
 ### Fu Dog Sphere
 
 ![Fu Dog Sphere © Tyson Amick](https://i1.wp.com/media-cache-ec0.pinimg.com/474x/f7/0d/b0/f70db07db997f6222c1907d84b435e31.jpg)
 
-An earth sphere under the Fu dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. In the picture is one of the stone lions guarding the Jing’An Temple in Shanghai, China. Undated. (© Tyson Amick)
+An earth sphere under the Fu dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. In the picture is one of the stone lions guarding the Jing’An Temple in Shanghai, China. Undated. (Photo © Tyson Amick)
 
 
 ### Sikh temple marble floor
@@ -46,5 +46,5 @@ A Sikh temple marble floor decoration. Amritsar, India. Undated.
 
 ![Mosaic floor in Seville © Rafael del Pino](https://i1.wp.com/media-cache-ec0.pinimg.com/736x/8e/d3/94/8ed39487689eda506fbd1301611c7cbc.jpg)
 
-Mosaic in the Archeological Museum of Seville, Spain. Undated. (© Rafael del Pino)
+Mosaic in the Archeological Museum of Seville, Spain. Undated. (Photo © Rafael del Pino)
 

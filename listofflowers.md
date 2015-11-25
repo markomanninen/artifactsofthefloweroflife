@@ -1,4 +1,4 @@
-# List of the FOLs
+# List of artifacts
 
 I have ordered the following list of the FOL artifacts by time from the oldest to the newest and added undated items to the end of the list. I hope this list will help further investigators to find out more details of the objects. Origin and history of listed artifacts can reveal more about the history of the FOL itself.
 
