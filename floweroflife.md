@@ -1,8 +1,8 @@
-# The FOL versus the Cownose
+# The Flower of Life versus the Cownose
 
 Square shape and square root of 2 is apparent on the Cownose pattern. Equilateral triangle and hexagon shape with the square root of 3 property are fundamental in the FOL. All these properties were known by Old Babylonians as it is shown in the book "*A Remarkable Collection of Babylonian Mathematical Texts*" by Joran Friberg. See clay tablets: IM 52916, Susu and MS 3051 on the page 207.
 
-But there are incidents in the ancient history that urges the appearance of the FOL before 2000 BC.
+But there are incidents in the ancient history that urges the appearance of the FOL before 2000 BC. These incidents are: sexagecimal numeral system, rhombic cone mosaics and six petal cylinders seals.
 
 **Sexagecimal system**
 
@@ -22,7 +22,7 @@ The pillar [cone mosaic](http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Perg
 
 The Sumerian brown stone [cylinder seal](http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180) with two six petal rosettes originates from 3000 BC. Similar [seals](http://www.ucpress.edu/op.php?isbn=9780520049277) are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). Six petal rosette is a partial symbol inside the FOL pattern as well.
 
-**Banal design**
+**Trivial design**
 
 The creation of the FOL symbol is started by drawing six intersecting circles around the seventh central circle. The FOL is easier to draw than the Cownose with a plain drafting compass (or divider). In the FOL you continue forming the pattern from simple and direct intersection points. In the Cownose pattern you need to find perpendicular lines and right angles with more complicated procedure. This can be verified by doing both figures manually. Thus we could expect to see the FOL appearing on artifacts before the Cownose.
 

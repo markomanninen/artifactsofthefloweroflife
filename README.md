@@ -13,7 +13,7 @@ I hope my independent research provides valuable resources for people to do furt
 | -- | -- |
 | **Title** | Artifacts of the Flower of Life |
 | **Author** | Marko Manninen |
-| **Pages** | xx (pdf) |
+| **Pages** | 60 (pdf) |
 | **Description** | Essay presents the continuity of historical artifacts of the Flower of Life from 1500 BC to 1500 AD |
 | **Keywords** | Flower of Life, six petal rosette, intersecting circles, equilateral triangle, apsamikku, sacred geometry |
 | **Language** | English |
