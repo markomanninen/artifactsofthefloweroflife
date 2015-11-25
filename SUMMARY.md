@@ -9,8 +9,8 @@
 * [At the dawn of the Common Era](commonera.md)
 * [1500 AC and still going strong](1500ad.md)
 * [List of the FOLs](listofflowers.md)
-   * [2000 BC – 0](2000-0bc.md)
-   * [0 – 2000 AD](0-2000ad.md)
+   * [2000 BC - 0](2000-0bc.md)
+   * [0 - 2000 AD](0-2000ad.md)
    * [Undated](undated.md)
 * [Map of flowers](map.md)
 * [Conclusions?](conclusions.md)
@@ -18,4 +18,3 @@
 * [Pictures](pictures.md)
 * [Keywords](keywords.md)
 * [Credits](credits.md)
-
