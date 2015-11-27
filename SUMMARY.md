@@ -17,5 +17,4 @@
 * [References](references.md)
 * [Pictures](pictures.md)
 * [Keywords](keywords.md)
-* [Test](test.md)
 * [Credits](credits.md)
