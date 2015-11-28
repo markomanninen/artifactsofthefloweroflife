@@ -1,4 +1,4 @@
-Artifacts of the Flower of Life
+Introduction
 =======
 
 In this essay I am going to present historical artifacts of the certain geometrical symbol that is known as the **Flower of Life** in contemporary history. Origin of the symbol dates back at least to the beginning of the 2nd millennium BC in the ancient Mesopotamia. I've documented the usage of the symbol roughly from 1500 BC to 1500 AD.

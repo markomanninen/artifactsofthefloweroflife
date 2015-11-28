@@ -30,6 +30,10 @@ But surprisingly sum and substance based strictly on known artifacts is that fou
 
 Based on above considerations, we can safely make the next conjecture:
 
-> Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC. In the beginning of the 2nd millennium BC, people were playing with construction elements and pattern we find in the Flower of Life symbol.
+<!-- note -->
+
+Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC. In the beginning of the 2nd millennium BC, people were playing with construction elements and pattern we find in the Flower of Life symbol.
+
+<!-- endnote -->
 
 Strictly speaking first occurrences of the FOL are available on artifacts from 1600 - 1500 BC. And the first FOL as a complete symbol as Melchizedek has described it, is from Marlik, 1400-1100 BC. That is, if the occurrence from Abydos is not counted because of dating debate around it.
