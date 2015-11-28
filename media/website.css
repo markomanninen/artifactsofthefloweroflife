@@ -29,6 +29,6 @@ div[data-filepath="reflections.md"] .book-body .page-wrapper .page-inner section
 }
 
 div.nopb {
-    display: table;
-    page-break-inside: avoid;
+    /*display: table;
+    page-break-inside: avoid;*/
 }
