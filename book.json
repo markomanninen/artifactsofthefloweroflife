@@ -35,9 +35,9 @@
     
     "styles": {
         "website": "media/website.css",
-        "ebook": "media/website_.css",
-        "pdf": "media/website_.css",
-        "mobi": "media/website_.css",
-        "epub": "media/website_.css"
+        "ebook": "media/website.css",
+        "pdf": "media/website.css",
+        "mobi": "media/website.css",
+        "epub": "media/website.css"
     }
 }
