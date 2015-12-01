@@ -4,34 +4,31 @@
     
     "isbn": "978-952-68480-0-6 (PDF), 978-952-68480-1-3 (EPUB), 978-952-68480-2-0 (MOBI)",
     
-    "plugins": ["image-captions", "regexplace"],
+    "plugins": ["regexplace"],
     
     "pluginsConfig": {
         "regexplace": {
             "substitutes": [
                 {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},
                 {"pattern": "<!-- endnopb -->", "flags": "g", "substitute": "</div>"},
-                {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note alert alert-warning\" role=\"alert\">"},
-                {"pattern": "<!-- endnote -->", "flags": "g", "substitute": "</div>"}
-            ]
-        },
-        "image-captions": {
-            "caption": "Picture _BOOK_IMAGE_NUMBER_: _CAPTION_",
-            "attributes": {"style": "width: 600px"},
-            "variable_name": "pictures",
-            "list_caption": "_CAPTION_",
-            "images": {
-                "1.1": {
-                    "caption": "Figure _BOOK_IMAGE_NUMBER_: _CAPTION_",
-                    "list_caption": "Figure: _CAPTION_",
-                    "attributes": {"width": "300", "height": "300"}
+                {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note\">"},
+                {"pattern": "<!-- endnote -->", "flags": "g", "substitute": "</div>"},
+                {
+                    "pattern": "<img ([^>]*) {0,}\/{0,}> {0,}{caption=1([^\\}]*)}", 
+                    "flags": "g", 
+                    "substitute": "<figure id=\"fig_PAGE_LEVEL_._INDEX_\"><img $2 $1><figcaption></figcaption></figure>", 
+                    "decode": true
                 },
-                "2.1.1": {
-                    "caption": "Figure _BOOK_IMAGE_NUMBER_: _CAPTION_",
-                    "list_caption": "Figure: _CAPTION_",
-                    "attributes": {"width": "300", "height": "300"}
+                {
+                    "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}><figcaption></figcaption>", 
+                    "flags": "g", 
+                    "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
+                    "store": {
+                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (Picture: _PAGE_LEVEL_._INDEX_)</span>",
+                        "variable_name": "pictures"
+                    }
                 }
-            }
+            ]
         }
     },
     

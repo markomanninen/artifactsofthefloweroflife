@@ -16,7 +16,7 @@ The FOL and the sexagecimal system both shares same geometrial and mathematical 
 
 The pillar [cone mosaic](http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Pergamonmuseum_Inanna_01.jpg) from the ancient Sumerian city, Uruk (3400-3100 BC) shows a tessellation pattern. This 60 degrees zig-zag rhombus pattern formed by two equilateral triangles is inside the FOL geometry as well.
 
-![Cone mosaics © BrokenSphere / Wikimedia Commons](./media/StoneConeMosaics.jpg)
+![Cone mosaics © BrokenSphere / Wikimedia Commons](./media/StoneConeMosaics.jpg){caption=1}
 
 **Cylinder seal**
 

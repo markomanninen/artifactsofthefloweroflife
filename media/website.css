@@ -32,9 +32,20 @@ div.nopb {
     page-break-inside: avoid;
 }
 
-div.note {}
+div.note {
+    background: #FCF8E3 none repeat scroll 0% 0%;
+    color: #8A6D3B;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-bottom: 5px solid #DDD;
+    border-color: #FAEBCC;
+}
 
 .book .book-body .page-wrapper .page-inner section.normal div.note p {
     padding-bottom: 0;
     margin-bottom: 0;
+}
+
+blockquote {
+    font-style: italic;
 }

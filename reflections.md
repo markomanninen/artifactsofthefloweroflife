@@ -6,7 +6,7 @@ Some websites already had a good collection of occurrences of the symbol at the 
 
 Occurrence of the Flower of Life in Egypt was first reported by the New Age author Drunvalo Melchizedek in his lectures in 80's and 90's. Later the Flower of Life was officially presented in his two volume book "*The Ancient Secret of the Flower of Life*" (1999-2000). Melchizedek first proclaimed the modern term **Flower of Life**. In his books Melchizedek depicts the Flower of Life by the particular geometrical figure:
 
-![The Flower of Life / Public Domain](./media/Flower-of-Life.png)
+![The Flower of Life / Public Domain](./media/Flower-of-Life.png){caption=1 width=300}
 
 The Flower of Life term is often used more broadly to describe different formation phases of the symbol. I will use the Flower of Life term to denote the general pattern as well as different parts of the generation of the symbol. I will call the Flower of Life later by the abbreviation FOL.
 
@@ -18,9 +18,9 @@ Note: the Flower of Life symbol should not be confused with the [Fleur-de-lis](h
 
 Flower of Life [wiki page](http://web.archive.org/web/20150413033856/http://en.wikipedia.org/wiki/Flower_of_Life) (in August 2014) states that one of the earliest occurrences of the FOL is in the Assyrian [stone carpet](https://commons.wikimedia.org/wiki/File:Floor_decoration_from_the_palace_of_King_Ashurbanipal.jpg) (650 BC). The wiki page also questions the dating of the FOL that is drawn on the Osirian temple stone in Abydos, Egypt. While dating of the FOL in Abydos is debated, it is evident that the geometrical formation of the symbol was known already in 1600-1400 BC. From that time we have artifacts which show the very same decoration motif. Artifacts are:
 
-* Golden rosettes ([picture 6](2000-0bc.md#fig6.1.1)) from Mycenae, Greece
-* Cosmetic boxes ([picture 7](2000-0bc.md#fig6.1.2)) from Thebes, Egypt
-* Ivory whorls ([picture 10](2000-0bc.md#fig6.1.5)) from Cyprus
-* Golden and silver goblets ([picture 8](2000-0bc.md#fig6.1.3), [picture 9](2000-0bc.md#fig6.1.4), [picture 18](2000-0bc.md#fig6.1.13)) from Marlik, Northern Iran
+* Golden rosettes ([pic. 6.1.1](2000-0bc.md#fig6.1.1)) from Mycenae, Greece
+* Cosmetic boxes ([pic. 6.1.2](2000-0bc.md#fig6.1.2)) from Thebes, Egypt
+* Ivory whorls ([pic. 6.1.5](2000-0bc.md#fig6.1.5)) from Cyprus
+* Golden and silver goblets ([pic. 6.1.3](2000-0bc.md#fig6.1.3), [pic. 6.1.4](2000-0bc.md#fig6.1.4), [pic. 6.1.13](2000-0bc.md#fig6.1.13)) from Marlik, Northern Iran
 
 Many topics surrounding the FOL are highly controversial. This is due to Melchizedek's background in the New Age philosophy. But that shouldn't limit people from doing further research and seeking the origin of the symbol.
