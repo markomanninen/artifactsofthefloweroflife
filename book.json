@@ -24,7 +24,7 @@
                     "flags": "g", 
                     "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
                     "store": {
-                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (Picture: _PAGE_LEVEL_._INDEX_)</span>",
+                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (pic. _PAGE_LEVEL_._INDEX_)</span>",
                         "variable_name": "pictures"
                     }
                 }
@@ -37,6 +37,6 @@
         "ebook": "media/website.css",
         "pdf": "media/website.css",
         "mobi": "media/website.css",
-        "epub": "media/website.css"
+        "epub": "media/epub.css"
     }
 }

@@ -9,7 +9,7 @@ I hope my independent research provides valuable resources for people to do furt
 
 ---
 
-| *Meta* | *Data* |
+| ***Meta*** | *Data* |
 | -- | -- |
 | **Title** | Artifacts of the Flower of Life |
 | **Author** | Marko Manninen |
