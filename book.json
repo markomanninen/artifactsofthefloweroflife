@@ -4,9 +4,12 @@
     
     "isbn": "978-952-68480-0-6 (PDF), 978-952-68480-1-3 (EPUB), 978-952-68480-2-0 (MOBI)",
     
-    "plugins": ["regexplace"],
+    "plugins": ["regexplace", "ga"],
     
     "pluginsConfig": {
+        "ga": {
+            "token": "UA-70930023-1"
+        },
         "regexplace": {
             "substitutes": [
                 {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},
@@ -34,7 +37,7 @@
     
     "styles": {
         "website": "media/website.css",
-        "ebook": "media/website.css",
+        "ebook": "media/epub.css",
         "pdf": "media/website.css",
         "mobi": "media/website.css",
         "epub": "media/epub.css"
