@@ -30,6 +30,17 @@
                         "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (pic. _PAGE_LEVEL_._INDEX_)</span>",
                         "variable_name": "pictures"
                     }
+                },
+                {
+                    "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                    "flags": "g",
+                    "substitute": "$1",
+                    "store": {
+                        "substitute": "{$1}",
+                        "unique": true,
+                        "lower": true,
+                        "variable_name": "words"
+                    }
                 }
             ]
         }
