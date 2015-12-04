@@ -8,3 +8,6 @@ Dactylic hexameter (also known as "heroic hexameter") is a form of meter or rhyt
 
 A tessellation of a flat surface is the tiling of a plane using one or more geometric shapes, called tiles, with no overlaps and no gaps. In mathematics, tessellations can be generalized to higher dimensions and a variety of geometries.
 
+## Rhombic
+
+Rhombus-like, a quadrilateral whose four sides all have the same length (often called a diamond)
