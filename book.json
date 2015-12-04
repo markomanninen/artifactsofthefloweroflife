@@ -1,7 +1,7 @@
 {
     "title": "Artifacts of the Flower of Life",
     "description": "Essay presents the continuity of historical artifacts of the Flower of Life from 1500 BC to 1500 AD",
-    
+    "author": "Marko Manninen",
     "isbn": "978-952-68480-0-6 (PDF), 978-952-68480-1-3 (EPUB), 978-952-68480-2-0 (MOBI)",
     
     "plugins": ["regexplace", "ga"],
@@ -43,6 +43,9 @@
                 
             ]
         },
+        "sitemap": {
+            "hostname": "http://artifacts.flowerofliferesearch.com/"
+        },
         "": {
             "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
             "flags": "g",
@@ -58,6 +61,10 @@
     "variables": {
         "pictures": [],
         "words": []
+    },
+    "pdf": {
+        "headerTemplate": "<span>_TITLE_</span><span><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></span>",
+        "footerTemplate": "<span>_SECTION_<br/>Published: __/__/2015 | Updated: __/__/2015 | © _AUTHOR_, 2015</span><span class=\"footer-pages-count\">_PAGENUM_</span>"
     },
     "styles": {
         "website": "media/website.css",
