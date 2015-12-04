@@ -48,7 +48,11 @@ div.note {
     font-style: italic;
 }
 
-div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal figure {
+div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal > :last-child {
+    text-align: center;
+}
+
+div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal > :last-child img {
     display: none;
 }
 

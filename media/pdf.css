@@ -48,7 +48,11 @@ div.note {
     font-style: italic;
 }
 
-div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal p img {
+div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal > :last-child {
+    text-align: center;
+}
+
+div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal div.googlemaps {
     display: none;
 }
 
@@ -69,8 +73,4 @@ div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.nor
 
 div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.normal ul li span {
     display: block;
-}
-
-div.googlemaps {
-	display: none;
 }
