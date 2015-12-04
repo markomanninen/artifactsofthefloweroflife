@@ -8,7 +8,7 @@ But there are incidents in the ancient history that urges the appearance of the 
 
 Sexagecimal place value system was known in the ancient Mesopotamia in the 3rd millennium BC. Geometrical link between a circle, a hexagon and the sexagecimal system is genuinely demonstrated by [Jaime Vladimir](http://halshs.archives-ouvertes.fr/docs/00/03/44/42/DOC/geometrical_link_circle_sexagesimal_system.doc). He summarizes it:
 
-> ...these geometrical facts show that there is a geometrical link between the circle and the sexagesimal system and that the division of the circle in 360 equal parts, which corresponds to 360 equal angles or degrees, isn’t a choice that is completely independent of the geometry because this division can be suggested by the basic properties of the circles and the equilateral triangles.
+> ...these geometrical facts show that there is a geometrical link between the circle and the sexagesimal system and that the division of the circle in 360 equal parts, which corresponds to 360 equal angles or degrees, isn't a choice that is completely independent of the geometry because this division can be suggested by the basic properties of the circles and the equilateral triangles.
 
 The FOL and the sexagecimal system both shares same geometrial and mathematical properties. It means they would mutually benefit from the existence of each other.
 
