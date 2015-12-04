@@ -27,25 +27,28 @@
                     "flags": "g", 
                     "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
                     "store": {
-                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">$2</a><span> (pic. _PAGE_LEVEL_._INDEX_)</span>",
+                        "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">Pic. _PAGE_LEVEL_._INDEX_</a> <span>$2</span>",
                         "variable_name": "pictures"
-                    }
-                },
-                {
-                    "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
-                    "flags": "g",
-                    "substitute": "$1",
-                    "store": {
-                        "substitute": "{$1}",
-                        "unique": true,
-                        "lower": true,
-                        "variable_name": "words"
                     }
                 }
             ]
+        },
+        "": {
+            "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+            "flags": "g",
+            "substitute": "$1",
+            "store": {
+                "substitute": "{$1}",
+                "unique": true,
+                "lower": true,
+                "variable_name": "words"
+            }
         }
     },
-    
+    "variables": {
+        "pictures": [],
+        "words": []
+    },
     "styles": {
         "website": "media/website.css",
         "ebook": "media/epub.css",

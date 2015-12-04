@@ -9,5 +9,4 @@ Most of the pictures have been published with [Creative Commons](http://en.wikip
 
 {% for picture in book.pictures %}
 * {{ picture }}
-
 {% endfor %}
