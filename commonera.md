@@ -10,4 +10,4 @@ Without going any deeper into the subject, it must be mentioned that Roman Imper
 
 Experimental paintings on the wall of [temple ruins](https://www.flickr.com/photos/7283893@N05/5230474741/in/faves-48694711@N03/) in Syria desert is highly interesting and urges deeper research. Wall is full of symbols of the FOL in different forms. This resembles figure settings in Abydos wall.
 
-![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts2.png){caption=1}
+![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts2.jpg){caption=1}

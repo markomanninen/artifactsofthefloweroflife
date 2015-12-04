@@ -19,4 +19,4 @@ Stone door sills having the FOL decoration existed in the King Ashurbanipal temp
 
 Oldest instance of the FOL that I have found in the Asia is from Maharashtra, India, 200–100 BC. It is an arch decoration from the Buddhist Bedse caves. In the [Caves of Bedse](http://cavesofbedse.blogspot.fi/) blog it is mentioned that decoration motifs around the cave is similar to Greco-Assyrian style. Newer instances in the East comprise of the marble floor decoration in the Indian Sikh temple and Chinese Lion-Dog sculptures. But these are rather modern day objects having the FOL.
 
-![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts3.png){caption=1}
+![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts3.jpg){caption=1}

@@ -2,7 +2,7 @@
 
 I made a six week self-funded research trip to Greece, Turkey, France and Sweden in summer 2014. Since that I have been systematically collecting [pictures of artifacts](http://pinterest.com/markomanninen/flower-of-life-history/) of the Flower of Life into my Pinterest account. I'm going to present inclusively chosen artifacts from Pinterest account in this essay. All artifacts have the Flower of Life symbol printed, carved or other way presented on them.
 
-![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts4.png){caption=1}
+![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts4.jpg){caption=1}
 
 Some websites already had a good collection of occurrences of the symbol at the moment of writing this (August 2014). However, my personal findings on archaeological sites and museums, followed by exhausting research on the Internet, has brought up new interesting occurrences of the Flower of Life. Artifacts of the Flower of Life in this form and scale have not been collected anywhere else before, as far as I know.
 
