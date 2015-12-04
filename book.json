@@ -52,7 +52,7 @@
     "styles": {
         "website": "media/website.css",
         "ebook": "media/epub.css",
-        "pdf": "media/website.css",
+        "pdf": "media/pdf.css",
         "mobi": "media/website.css",
         "epub": "media/epub.css"
     }
