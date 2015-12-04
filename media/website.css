@@ -48,7 +48,7 @@ div.note {
     font-style: italic;
 }
 
-div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal p img {
+div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal figure {
     display: none;
 }
 
