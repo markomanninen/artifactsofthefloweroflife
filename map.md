@@ -1,3 +1,5 @@
+<!-- nopb -->
+
 # Map of artifacts of the Flower of Life
 
 The map below shows locations where cataloged artifacts were found:
@@ -9,3 +11,5 @@ The map below shows locations where cataloged artifacts were found:
 ![Google Map of the FOL items](./media/map.jpg)
 
 Source: [https://goo.gl/bJFB2e](https://mapsengine.google.com/map/u/0/embed?mid=zbWecF_iw3HU.kwdoxVUPtuAo)
+
+<!-- endnopb -->
