@@ -6,6 +6,8 @@ On picture descriptions I'm going to tell shortly where objects can be found, da
 
 Only when individuals and researchers has this particular subject on their mind, they may pay attention to the FOL geometry on artifacts. For example the silver goblet in the Medelhavsmuseet in Stockholm was found only, when I realized week earlier that the FOL can be seen from the bottom or the underside of the object. When I saw attracting silver item in the museum glass vitrine, my first thing to do was to peek inside it. It was truly amazing to see the perfect FOL appearing there right under my eyes.
 
+<!-- nopb -->
+
 ### [2000 BC - 0 AD](2000-0bc.md)
 
 | ***Item*** | ***Location*** | ***Date*** |
@@ -30,6 +32,9 @@ Only when individuals and researchers has this particular subject on their mind,
 |Floor mosaic|Cyprus|75 – 50 BC|
 |Floor mosaic|Israel|20 BC|
 
+<!-- endnopb -->
+<!-- nopb -->
+
 ### [0 AD - 2000 AD](0-2000ad.md)
 
 | ***Item*** | ***Location*** | ***Date*** |
@@ -50,13 +55,18 @@ Only when individuals and researchers has this particular subject on their mind,
 |Codex Atlanticus folio 307v|Italy|1500 AD|
 |Stone inscriptions|Bulgaria|1600 AD|
 
+<!-- endnopb -->
+<!-- nopb -->
+
 ### [Undated](undated.md)
 
 | ***Item*** | ***Location*** | ***Date*** |
 | -- | -- | -- |
-|Abydos wall|Egypt|-|
-|Assyrian wall decoration|Near East|-|
-|Chapel lunette|Patmos, Greece|-|
-|Fu Dog sphere|Shanghai, China|-|
-|Giant urn|Beijing, China|-|
-|Marble floor decoration|Amritsar, India|-|
+|Abydos wall|Egypt|BC, AD|
+|Assyrian wall decoration|Near East|BC|
+|Chapel lunette|Patmos, Greece|AD|
+|Fu Dog sphere|Shanghai, China|AD|
+|Giant urn|Beijing, China|AD|
+|Marble floor decoration|Amritsar, India|AD|
+
+<!-- endnopb -->
