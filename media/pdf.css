@@ -74,3 +74,31 @@ div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.nor
 div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.normal ul li span {
     display: block;
 }
+
+.pdf-footer,
+.pdf-header {
+    margin-top: 20px;
+    color: #aaa
+}
+.pdf-footer {
+    padding-top: 10px;
+    border-top: 1px solid #eee
+}
+.pdf-footer .footer-pages-count {
+    float: right
+}
+.pdf-header {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee
+}
+.pdf-header .header-pages-count {
+    float: right
+}
+.pdf-header .header-pages-count a,
+.pdf-header .header-pages-count a:visited,
+.pdf-header .header-pages-count a:active,
+.pdf-header .header-pages-count a:focus,
+.pdf-header .header-pages-count a:link {
+    text-decoration: none;
+    color: inherit
+}
