@@ -28,7 +28,7 @@ The Sumerian brown stone [cylinder seal](http://www.christies.com/lotfinder/lot/
 
 **Trivial design**
 
-The creation of the FOL symbol is started by drawing six intersecting circles around the seventh central circle. The FOL is easier to draw than the Cownose with a plain drafting compass (or a divider). In the FOL you continue forming the pattern from simple and direct intersection points. In the Cownose pattern you need to find perpendicular lines and right angles with more complicated procedure. This can be verified by doing both figures manually. Thus we could expect to see the FOL appearing on artifacts before the Cownose.
+The creation of the FOL symbol is started by drawing six intersecting circles around the seventh central circle. The FOL is easier to draw than the Cownose with a plain drafting compass (or a divider). In the FOL you continue forming the pattern from simple and direct intersection points. In the Cownose pattern you need to find perpendicular lines and right angles with more complicated procedure. We can verify this by doing both figures manually. Thus we could expect to see the FOL appearing on artifacts before the Cownose.
 
 But surprisingly sum and substance based strictly on known artifacts is that four (and eight) pointed shapes like the Cownose were antecedent and far more prominent. Only later six pointed shapes like the FOL seems to have been used as a decoration motif.
 
