@@ -51,8 +51,17 @@ A [giant urn](https://www.facebook.com/JamieJanover.artist.profile/photos/a.1015
 
 #### Sikh temple marble floor
 
-![Sikh temple marple decoration © Unknown](./media/marple-floor.png){caption=1}
+![Sikh temple marple decoration](./media/marple-floor.png){caption=1}
 
 [Harmandir Sahib](https://en.wikipedia.org/wiki/Harmandir_Sahib ) (a Sikh temple) marple floor decoration. Amritsar, India. Undated.
+
+<!-- endnopb -->
+<!-- nopb -->
+
+#### Jewish painting
+
+![Jewish painting](./media/jewish-painting.jpg){caption=1}
+
+A Jewish painting that has a Hebrew inscription around the circle of the Flower of Life. Unplaced, Undated.
 
 <!-- endnopb -->

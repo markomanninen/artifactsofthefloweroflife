@@ -68,5 +68,6 @@ Only when individuals and researchers has this particular subject on their mind,
 |Fu Dog sphere|Shanghai, China|AD|
 |Giant urn|Beijing, China|AD|
 |Marble floor decoration|Amritsar, India|AD|
+|Jewish painting|-|AD|
 
 <!-- endnopb -->
