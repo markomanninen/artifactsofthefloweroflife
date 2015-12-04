@@ -2,7 +2,7 @@
 
 Educated geometrical practice relating to intersecting circles have a long tradition. We can see it from mathematical clay tablets available since Old Babylonian period (2000-1600 BC).
 
-Intersecting circles forming the concave square or the so-called Apsamikku is discussed in "*[Mesopotamian mathematics](https://www.academia.edu/1261766/Mesopotamian_mathematics_page_proofs_)*" by Eleanor Robson. Simple depiction of the four petal rosette pattern in question looks like this:
+Intersecting circles forming the concave square or the so-called Apsamikku is discussed in "[Mesopotamian mathematics](https://www.academia.edu/1261766/Mesopotamian_mathematics_page_proofs_)" by Eleanor Robson. Simple depiction of the four petal rosette pattern in question looks like this:
 
 ![The Cownose geometric pattern © Marko Manninen / Creative Commons](./media/Apsamikku.png){caption=1 width=300}
 
@@ -20,7 +20,7 @@ It is probable that the Cownose pattern came somewhere from the ancient Fertile 
 
 ![Ceremonial vessel with the Cownose pattern from Harappan © LACMA](./media/CeremonialVessel.jpg){caption=1 width=500}
 
-In "*[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)*" by Lawergren & Gurney, the sound hole of a lyre or a harp is also called the Apsamikku. Interestingly the shape of the hole resembles more of two facing equilateral concave triangles than the concave square (ibid. Plate X). See also: "[Some old Babylonian geometry](https://www.academia.edu/3604815/The_area_and_the_side_I_added_Some_Old_Babylonian_geometry)" by Duncan J. Melville.
+In "[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/faculty/lawergren/repository/files/articles/Soundholes%20and%20Geometrical%20Figures.pdf)" by Lawergren & Gurney, the sound hole of a lyre or a harp is also called the Apsamikku. Interestingly the shape of the hole resembles more of two facing equilateral concave triangles than the concave square (ibid. Plate X). See also: "[Some old Babylonian geometry](https://www.academia.edu/3604815/The_area_and_the_side_I_added_Some_Old_Babylonian_geometry)" by Duncan J. Melville.
 
 It could rather be that the Apsamikku generally refers to a hole, a window or a frame in the figure, not the exact shape of it. Then the name of the FOL symbol could have been Apsamikku + some affix. Determining the case is outside of the scope of this essay, but intriguing enough. If the FOL symbol/pattern had any particular name for ancients, I leave it for future speculations.
 

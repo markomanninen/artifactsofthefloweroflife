@@ -14,3 +14,19 @@
 * D.T. Potts: A Companion to the Archaeology of the Ancient Near East (2012)
 * Georgina Herrmann, Stuart Laidlaw: Ivories from Nimrud VI (2008)
 * Beatrice Teissier: Ancient Near Eastern Cylinder Seals from the Marcopoli Collection (1984)
+* Roger B. Ulrich: Roman Woodworking (2013)
+* L.R. Shelby: Medieval Masons' Tools (1961)
+* Ovid: Metamorphoses 8 (1 AD)
+* Leonardo da Vinci: Codex Atlanticus (1500)
+* Jalme D.V. Redon: El mosaico romano con inscripcw xiloca 3 iberica de "la caridad" (1989)
+* Lawergren & Gurney: Sound Holes And Geometrical Figures (1987)
+
+{% if book.references_ %}
+
+## Citations
+
+{% for reference in book.references %}
+* {{ reference }}
+{% endfor %}
+
+{% endif %}

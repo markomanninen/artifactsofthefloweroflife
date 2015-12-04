@@ -30,7 +30,17 @@
                         "substitute": "<a href=\"_PAGE_PATH_#fig_PAGE_LEVEL_._INDEX_\">Pic. _PAGE_LEVEL_._INDEX_</a> <span>$2</span>",
                         "variable_name": "pictures"
                     }
+                },
+                {
+                    "pattern": "&quot;<a([^>].*?)<\/a>&quot;", 
+                    "flags": "g", 
+                    "substitute": "&quot;<ref><a$1</a></ref>&quot;",
+                    "store": {
+                        "substitute": "<a$1</a>",
+                        "variable_name": "references"
+                    }
                 }
+                
             ]
         },
         "": {
