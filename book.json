@@ -63,8 +63,8 @@
         "words": []
     },
     "pdf": {
-        "headerTemplate": "<span>_TITLE_</span><span><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></span>",
-        "footerTemplate": "<span>_SECTION_<br/>Published: __/__/2015 | Updated: __/__/2015 | © _AUTHOR_, 2015</span><span class=\"footer-pages-count\">_PAGENUM_</span>"
+        "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_TITLE_</span><span><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></span></div></body></head>",
+        "footerTemplate": "<html><body><div class=\"pdf-footer\"><span>_SECTION_<br/>Published: __/__/2015 | Updated: __/__/2015 | © _AUTHOR_, 2015</span><span class=\"footer-pages-count\">_PAGENUM_</span></body></head>"
     },
     "styles": {
         "website": "media/website.css",
