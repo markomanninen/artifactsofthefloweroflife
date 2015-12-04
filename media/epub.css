@@ -15,7 +15,7 @@ figcaption {
 }
 
 #page-book-details .details-readme section table thead,
-.book .book-body .page-wrapper .page-inner section.normal table thead {
+div[data-filepath="README.md"] .book-body .page-wrapper .page-inner section.normal table thead {
     display: none;
 }
 
@@ -35,6 +35,7 @@ div.note {
     margin-bottom: 10px;
     border-bottom: 5px solid #DDD;
     border-color: #FAEBCC;
+    page-break-inside: avoid;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal div.note p {

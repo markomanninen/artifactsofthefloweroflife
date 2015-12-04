@@ -4,7 +4,7 @@ Most of artifacts from 1400 BC to 500 BC are found from an area that is nowadays
 
 * immature web technologies used on museum websites, lack of public online collections
 * current political situation, which effectively limits traveling
-* illegal trade of the antiquities that has been continuing for the last two hundred years
+* illegal trade of the antiquities that has been continuing for the last two hundred years (see D.T. Potts: A Companion to the Archaeology of the Ancient Near East, chapter 6)
 * massive destruction of the archaeological sites and museum collections by religious fundamentalists
 
 There are just a few scholarly works that refer to the FOL, often with an association to the six petal rosette figure. At some point this particular geometrical motif arrived from mainland to Cyprus, Samos and Miletos. This can be read from the history of the "[Greek vases](http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892361506.pdf)" by B.B. Shefton (pages 47-57):
@@ -18,3 +18,5 @@ Phoenicians in Nimrud around 700 BC decorated ivory items like the pyxis, the el
 Stone door sills having the FOL decoration existed in the King Ashurbanipal temple in Nineveh, 645 BC. The decoration in stone carpets gives the effect of flowers with six petals (continuous FOL pattern). "[Assyrian Carpets in Stone](https://www.jtsa.edu/Documents/pagedocs/JANES/1978%2010/Albenda10.pdf)" by Pauline Albenda lists several similar stone carpets from Nimrud. But also she seems to be unaware of Marlik culture goblets or Egyptian existence of the FOL ornament.
 
 Oldest instance of the FOL that I have found in the Asia is from Maharashtra, India, 200–100 BC. It is an arch decoration from the Buddhist Bedse caves. In the [Caves of Bedse](http://cavesofbedse.blogspot.fi/) blog it is mentioned that decoration motifs around the cave is similar to Greco-Assyrian style. Newer instances in the East comprise of the marble floor decoration in the Indian Sikh temple and Chinese Lion-Dog sculptures. But these are rather modern day objects having the FOL.
+
+![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts3.png){caption=1}

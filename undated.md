@@ -2,13 +2,11 @@
 
 <!-- nopb -->
 
-#### Six petal flower lunette
+#### Ornament at the Temple of Osiris
 
-![Six petal flower on lunette © Marko Manninen / Creative Commons](./media/rosette-lunette.jpg){caption=1}
+![Abydos ornament © Ray Flowers](./media/abydos-ornament.jpg){caption=1}
 
-![Intersecting circles on lunette (zoom) © Marko Manninen / Creative Commons](./media/rosette-lunette2.jpg){caption=1}
-
-A six petal flower lunette above the door of the Orthodox chapel (upper picture). More complex pattern of intersecting circles can be seen on both sides of the center circle when picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photos © Marko Manninen / Creative Commons)
+The famous ornament found at the stone slab in the Temple of Osiris. Claimed to have origins from 3000 BC (or even much older), but critical analysis gives dates from 400 - 200 BC to even after 1900 AD. Abydos, Egypt. (Photo © Ray Flowers)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -22,11 +20,22 @@ Presumably Assyrian [wall decoration](http://sanjindumisic.com/sumer-pergamon-mu
 <!-- endnopb -->
 <!-- nopb -->
 
+#### Six petal flower lunette
+
+![Six petal flower on lunette © Marko Manninen / Creative Commons](./media/rosette-lunette.jpg){caption=1}
+
+![Intersecting circles on lunette (zoom) © Marko Manninen / Creative Commons](./media/rosette-lunette2.jpg){caption=1}
+
+A six petal flower lunette above the door of the Orthodox chapel (upper picture). More complex pattern of intersecting circles can be seen on both sides of the center circle when picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photos © Marko Manninen / Creative Commons)
+
+<!-- endnopb -->
+<!-- nopb -->
+
 #### Fu Dog Sphere
 
-![Fu Dog Sphere © Tyson Amick](./media/fu-dog.jpg){caption=1}
+![Fu Dog sphere © Tyson Amick](./media/fu-dog.jpg){caption=1}
 
-An earth sphere under the Fu dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. In the picture is one of the stone lions guarding the Jing'An Temple in Shanghai, China. Undated. (Photo © Tyson Amick)
+An earth sphere under the Fu Dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. In the picture is one of the stone lions guarding the Jing'An Temple in Shanghai, China. Undated. (Photo © Tyson Amick)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -42,22 +51,8 @@ A [giant urn](https://www.facebook.com/JamieJanover.artist.profile/photos/a.1015
 
 #### Sikh temple marble floor
 
-A Sikh temple [marble floor](https://www.pinterest.com/pin/307018899570764147/) decoration. Amritsar, India. Undated.
+![Sikh temple marple decoration © Unknown](./media/marple-floor.png){caption=1}
 
-<!-- endnopb -->
-<!-- nopb -->
-
-#### Mosaic floor in Pompeii
-
-[Mosaic floor](https://www.flickr.com/photos/70125105@N06/13980198177/) in the House of Tragic Poet as House of Glaucus. Italy, Pompeii. Undated.
-
-<!-- endnopb -->
-<!-- nopb -->
-
-#### Mosaic floor in Seville
-
-![Mosaic floor in Seville © Rafael del Pino](./media/mosaic-seville.jpg){caption=1}
-
-Possibly a Roman period mosaic floor in the Archeological Museum of Seville, Spain. Undated. (Photo © Rafael del Pino)
+[Harmandir Sahib](https://en.wikipedia.org/wiki/Harmandir_Sahib ) (a Sikh temple) marple floor decoration. Amritsar, India. Undated.
 
 <!-- endnopb -->
