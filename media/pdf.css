@@ -15,7 +15,7 @@ figcaption {
 }
 
 #page-book-details .details-readme section table thead,
-div[data-filepath="README.md"] .book-body .page-wrapper .page-inner section.normal table thead {
+div#README\.md table thead {
     display: none;
 }
 
@@ -31,7 +31,7 @@ div.nopb {
 div.note {
     background: #FCF8E3 none repeat scroll 0% 0%;
     color: #8A6D3B;
-    padding: 15px;
+    padding: 15px 15px 0 15px;
     margin-bottom: 10px;
     border-bottom: 5px solid #DDD;
     border-color: #FAEBCC;
@@ -48,7 +48,7 @@ div.note {
     font-style: italic;
 }
 
-div[data-filepath="map.md"] .book-body .page-wrapper .page-inner section.normal > :last-child {
+div#map\.md {
     text-align: center;
 }
 
@@ -56,23 +56,21 @@ div.googlemaps {
     display: none;
 }
 
-div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.normal ul  {
+div#credits\.md ul {
     margin-left: -30px;
 }
 
-div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.normal ul li {
+div#credits\.md ul li {
     list-style: outside none none;
 }
 
-div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.normal ul li a {
-    width: 100px;
-    display: block;
+div#credits\.md ul li a {
     float: left;
-    height: 30px;
 }
 
-div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.normal ul li span {
+div#credits\.md ul li span {
     display: block;
+    margin-left: 100px;
 }
 
 .pdf-footer,
@@ -82,7 +80,7 @@ div[data-filepath="credits.md"] .book-body .page-wrapper .page-inner section.nor
 }
 .pdf-footer sub,
 .pdf-header sub {
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 .pdf-footer {
     padding-top: 10px;

@@ -4,7 +4,7 @@
     "author": "Marko Manninen",
     "isbn": "978-952-68480-0-6 (PDF), 978-952-68480-1-3 (EPUB), 978-952-68480-2-0 (MOBI)",
     
-    "plugins": ["regexplace", "ga"],
+    "plugins": ["regexplace", "ga", "infinitescroll"],
     
     "pluginsConfig": {
         "ga": {
@@ -12,6 +12,8 @@
         },
         "regexplace": {
             "substitutes": [
+                {"pattern": "<!-- pagewrapper -->", "flags": "g", "substitute": "<div id=\"_PAGE_PATH_\">"},
+                {"pattern": "<!-- endpagewrapper -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- nopb -->", "flags": "g", "substitute": "<div class=\"nopb\">"},
                 {"pattern": "<!-- endnopb -->", "flags": "g", "substitute": "</div>"},
                 {"pattern": "<!-- note -->", "flags": "g", "substitute": "<div class=\"note\">"},
@@ -40,13 +42,12 @@
                         "variable_name": "references"
                     }
                 }
-                
             ]
         },
         "sitemap": {
             "hostname": "http://artifacts.flowerofliferesearch.com/"
         },
-        "": {
+        "1": {
             "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
             "flags": "g",
             "substitute": "$1",

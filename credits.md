@@ -7,6 +7,10 @@ Most of the pictures have been published with [Creative Commons](http://en.wikip
 
 ## Pictures
 
+<!-- pagewrapper -->
+
 {% for picture in book.pictures %}
 * {{ picture }}
 {% endfor %}
+
+<!-- endpagewrapper-->
