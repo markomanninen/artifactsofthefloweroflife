@@ -115,28 +115,35 @@ sup {
     list-style: outside none none;
 }
 
-.page .section ul.citations li{
+.page .section ul.citations li {
     font-size: 80%;
 }
 
-.page .section ul.citations li > span,
-.page .section ul.references li > span {
+.page .section ul.citations li > span:nth-child(1),
+.page .section ul.references li > span:nth-child(1) {
     display: block;
     float: left;
-    text-align: right;
+    text-align: left;
     width: 70px
 }
 
-.page .section ul.citations li > div,
-.page .section ul.references li > div {
-    margin-left: 80px;
+.page .section ul.citations li > span:nth-child(1) {
+    width: 50px
 }
 
-.book .book-body .page-wrapper .page-inner section.normal a[href="#"],
-.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:link,
-.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:visited,
-.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:hover,
-.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:focus {
+.page .section ul.references li div {
+    margin-left: 70px;
+}
+
+.page .section ul.citations li div {
+    margin-left: 50px;
+}
+
+.page .section a[href="#"],
+.page .section a[href="#"]:link,
+.page .section a[href="#"]:visited,
+.page .section a[href="#"]:hover,
+.page .section a[href="#"]:focus {
     text-decoration: none;
     color: inherit;
     cursor: inherit;
