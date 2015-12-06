@@ -1,3 +1,5 @@
+/* image captions */
+
 figure {
     margin: 1.5em 0px;
     padding: 10px 0;
@@ -14,15 +16,27 @@ figcaption {
     color: #666;
 }
 
+/* table headers */
+
 #page-book-details .details-readme section table thead,
 div#README\.md table thead {
     display: none;
 }
 
+/* ul, ol list margin fix */
+
 .book .book-body .page-wrapper .page-inner section.normal ol,
 .book .book-body .page-wrapper .page-inner section.normal ul {
     margin-bottom: 10px;
 }
+
+/* no page break pdf/print definition */
+
+div.nopb {
+    page-break-inside: avoid;
+}
+
+/* note blocks */
 
 div.nopb {
     page-break-inside: avoid;
@@ -43,18 +57,24 @@ div.note {
     margin-bottom: 0;
 }
 
+/* quotes */
+
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
     margin: 0px 80px;
     font-style: italic;
 }
 
-div#map\.md {
+/* google map page */
+
+div#map\.md p {
     text-align: center;
 }
 
 div.googlemaps {
     display: none;
 }
+
+/* credits page */
 
 div#credits\.md ul {
     margin-left: -30px;
@@ -72,6 +92,35 @@ div#credits\.md ul li span {
     display: block;
     margin-left: 100px;
 }
+
+/* citations */
+sup {
+    padding: 2px;
+}
+
+ul.citations {
+    margin-left: -30px;
+}
+ul.citations li:nth-child(1) {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #BBB;
+}
+ul.citations li {
+    font-size: 80%;
+    list-style: outside none none;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a[href="#"],
+.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:link,
+.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:visited,
+.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:hover,
+.book .book-body .page-wrapper .page-inner section.normal a[href="#"]:focus {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* page header and footer */
 
 .pdf-footer,
 .pdf-header {
