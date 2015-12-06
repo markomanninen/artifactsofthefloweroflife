@@ -3,7 +3,7 @@
 Most of artifacts from 1400 BC to 500 BC are found from an area that is nowadays Syria, Iraq and Iran. The FOL topic is hard subject to research in the Near East because of:
 
 * Immature web technologies used on museum websites, lack of public online collections
-* Current political situation, which effectively limits traveling
+* Current political situation, which effectively limits traveling in the Near East
 * Illegal trade of the antiquities that has been continuing for the last two hundred years<!-- cite author="D.T. Potts" title="A Companion to the Archaeology of the Ancient Near East" date="2012" location="chapter 6" type="book" href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892361506.pdf" -->
 * Massive destruction of the archaeological sites and museum collections by religious fundamentalists
 
@@ -17,7 +17,7 @@ Phoenicians in Nimrud around 700 BC decorated ivory items like the pyxis (pic. [
 
 Stone door sills (pic. [6.1.13](2000-0bc.md#fig6.1.13)) having the FOL decoration existed in the King Ashurbanipal temple in Nineveh, 645 BC. The decoration in stone carpets gives the effect of flowers with six petals (continuous FOL pattern). *Assyrian Carpets in Stone*<!-- cite author="Pauline Albenda" title="Assyrian Carpets in Stone" date="1978" location="" type="website" href="https://www.jtsa.edu/Documents/pagedocs/JANES/1978%2010/Albenda10.pdf" --> by Pauline Albenda lists several similar stone carpets from Nimrud. But also she seems to be unaware of Marlik culture goblets or existence of the Egyptian FOL ornament.
 
-Oldest instance of the FOL that I have found in the Asia is from Maharashtra (pic. [6.1.15](2000-0bc.md#fig6.1.15)), India, 200–100 BC. It is an arch decoration from the Buddhist Bedse caves. In the Caves of Bedse<!-- cite author="Kale V" title="Divine Light at Bedse Caves, April 2014" date="" location="" type="website" href="http://cavesofbedse.blogspot.fi/" --> blog it is mentioned that decoration motifs around the cave is similar to Greco-Assyrian style. Newer instances in the East comprise of the marble floor decoration in the Indian Sikh temple (pic. [6.3.7](undated.md#fig6.3.7)) and Chinese Lion-Dog sculptures (pic. [6.3.5](undated.md#fig6.3.5)). But these are rather modern day objects having the FOL.
+Oldest instance of the FOL that I have found in the Asia is from Maharashtra (pic. [6.1.15](2000-0bc.md#fig6.1.15)), India, 200 – 100 BC. It is an arch decoration from the Buddhist Bedse caves. In the Caves of Bedse<!-- cite author="Kale V" title="Divine Light at Bedse Caves, April 2014" date="" location="" type="website" href="http://cavesofbedse.blogspot.fi/" --> blog it is mentioned that decoration motifs around the cave is similar to Greco-Assyrian style. Newer instances in the East comprise of the marble floor decoration in the Indian Sikh temple (pic. [6.3.7](undated.md#fig6.3.7)) and Chinese Lion-Dog sculptures (pic. [6.3.5](undated.md#fig6.3.5)). But these are rather modern day objects having the FOL.
 
 ![Artifacts of the FOL potpourri from Pinterest board](./media/artifacts3.jpg){caption=1}
 

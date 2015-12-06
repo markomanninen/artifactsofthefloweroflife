@@ -17,7 +17,7 @@ Artifacts of the Flower of Life electronic book is published in four different f
 | -- | -- |
 | **Title** | Artifacts of the Flower of Life |
 | **Author** | Marko Manninen |
-| **Pages** | 60 (PDF) |
+| **Pages** | 74 (PDF) |
 | **Description** | Essay presents the continuity of historical artifacts of the Flower of Life from 1500 BC to 1500 AD |
 | **Keywords** | Flower of Life, six petal rosette, intersecting circles, equilateral triangle, apsamikku, sacred geometry |
 | **Language** | English |

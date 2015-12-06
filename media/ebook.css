@@ -146,7 +146,8 @@ sup {
 .page .section a[href="#"]:focus {
     text-decoration: none;
     color: inherit;
-    cursor: inherit;
+    cursor: text;
+    font-style: italic;
 }
 
 /* page header and footer */
@@ -154,25 +155,26 @@ sup {
 .pdf-footer,
 .pdf-header {
     margin-top: 20px;
-    color: #aaa
+    color: #aaa;
 }
-.pdf-footer sub,
-.pdf-header sub {
+.pdf-footer span sub,
+.pdf-header span sub {
     margin-bottom: 5px;
+    line-height: 20px;
 }
 .pdf-footer {
     padding-top: 10px;
-    border-top: 1px solid #eee
+    border-top: 1px solid #eee;
 }
 .pdf-footer .footer-pages-count {
-    float: right
+    float: right;
 }
 .pdf-header {
     padding-bottom: 10px;
-    border-bottom: 1px solid #eee
+    border-bottom: 1px solid #eee;
 }
 .pdf-header .header-pages-count {
-    float: right
+    float: right;
 }
 .pdf-header .header-pages-count a,
 .pdf-header .header-pages-count a:visited,
@@ -180,5 +182,5 @@ sup {
 .pdf-header .header-pages-count a:focus,
 .pdf-header .header-pages-count a:link {
     text-decoration: none;
-    color: inherit
+    color: inherit;
 }

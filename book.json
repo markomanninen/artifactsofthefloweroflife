@@ -25,6 +25,28 @@
                     "decode": true
                 },
                 {
+                    "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                    "flags": "g",
+                    "substitute": "$1",
+                    "unreset": true,
+                    "store": {
+                        "substitute": "{$1}",
+                        "unique": true,
+                        "lower": true,
+                        "variable_name": "uniquewords"
+                    }
+                },
+                {
+                    "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                    "flags": "g",
+                    "substitute": "$1",
+                    "unreset": true,
+                    "store": {
+                        "substitute": "{$1}",
+                        "variable_name": "allwords"
+                    }
+                },
+                {
                     "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}><figcaption></figcaption>", 
                     "flags": "g", 
                     "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
@@ -46,22 +68,13 @@
         },
         "sitemap": {
             "hostname": "http://artifacts.flowerofliferesearch.com/"
-        },
-        "1": {
-            "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
-            "flags": "g",
-            "substitute": "$1",
-            "store": {
-                "substitute": "{$1}",
-                "unique": true,
-                "lower": true,
-                "variable_name": "words"
-            }
         }
     },
     "variables": {
         "pictures": [],
-        "words": []
+        "allwords": [],
+        "uniquewords": [],
+        "citations": []
     },
     "pdf": {
         "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_SECTION_&nbsp;</span><span class=\"header-pages-count\">&nbsp;<sub><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></sub></span></div></body></head>",
@@ -69,9 +82,9 @@
     },
     "styles": {
         "website": "media/website.css",
-        "ebook": "media/epub.css",
-        "pdf": "media/pdf.css",
-        "mobi": "media/website.css",
-        "epub": "media/epub.css"
+        "ebook": "media/ebook.css",
+        "pdf_": "media/ebook.css",
+        "mobi_": "media/ebook.css",
+        "epub_": "media/ebook.css"
     }
 }

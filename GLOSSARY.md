@@ -15,3 +15,7 @@ Rhombus-like, see Rhombus.
 ## Rhombus
 
 A quadrilateral whose four sides all have the same length (often called a diamond).
+
+## Caravanserai
+
+A caravanserai was a roadside inn where travelers (Caravaners) could rest and recover from the day's journey.
