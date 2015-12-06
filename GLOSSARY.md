@@ -10,4 +10,8 @@ A tessellation of a flat surface is the tiling of a plane using one or more geom
 
 ## Rhombic
 
-Rhombus-like, a quadrilateral whose four sides all have the same length (often called a diamond)
+Rhombus-like, see Rhombus.
+
+## Rhombus
+
+A quadrilateral whose four sides all have the same length (often called a diamond).
