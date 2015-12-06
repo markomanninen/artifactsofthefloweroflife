@@ -32,7 +32,7 @@
 {% if book.citations %}
 
 ## Citations
-<ul>
+<ul class="references">
 {% for cite in book.citations %}<li>{{ cite }}</li>{% endfor %}
 </ul>
 {% endif %}

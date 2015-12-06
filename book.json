@@ -38,7 +38,7 @@
                     "flags": "g",
                     "substitute": "<sup><a id=\"cite_INDEX_\" href=\"references.html#ref_PAGE_LEVEL_._INDEX_\" title=\"$1: $2 $3\" type=\"$5\">_INDEX_</a></sup>",
                     "store": {
-                        "substitute": "<span><a id=\"ref_PAGE_LEVEL_._INDEX_\" href=\"_PAGE_PATH_#cite_INDEX_\">_PAGE_LEVEL_._INDEX_.</a></span> <span>$1:</span> <span><a$6>$2</a></span> <span>$3</span> <span>$4</span>",
+                        "substitute": "<span><a id=\"ref_PAGE_LEVEL_._INDEX_\" href=\"_PAGE_PATH_#cite_INDEX_\">_PAGE_LEVEL_._INDEX_.</a></span> <div><span>$1:</span> <span><a$6>$2</a></span> <span>$3</span> <span>$4</span></div>",
                         "variable_name": "citations"
                     }
                 }

@@ -76,19 +76,19 @@ div.googlemaps {
 
 /* credits page */
 
-ul.pictures {
+.page .section ul.pictures {
     margin-left: -30px;
 }
 
-ul.pictures li {
+.page .section ul.pictures li {
     list-style: outside none none;
 }
 
-ul.pictures li a {
+.page .section ul.pictures li a {
     float: left;
 }
 
-ul.pictures li span {
+.page .section ul.pictures li span {
     display: block;
     margin-left: 100px;
 }
@@ -99,19 +99,37 @@ sup {
     padding: 2px;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal ul.citations {
+.page .section ul.citations,
+.page .section ul.references {
     margin-left: -30px;
 }
 
-ul.citations li:nth-child(1) {
+.page .section ul.citations li:nth-child(1) {
     margin-top: 20px;
     padding-top: 20px;
     border-top: 1px solid #BBB;
 }
 
-ul.citations li {
-    font-size: 80%;
+.page .section ul.citations li,
+.page .section ul.references li {
     list-style: outside none none;
+}
+
+.page .section ul.citations li{
+    font-size: 80%;
+}
+
+.page .section ul.citations li > span,
+.page .section ul.references li > span {
+    display: block;
+    float: left;
+    text-align: right;
+    width: 70px
+}
+
+.page .section ul.citations li > div,
+.page .section ul.references li > div {
+    margin-left: 80px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a[href="#"],

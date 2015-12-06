@@ -96,7 +96,8 @@ sup {
     padding: 2px;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal ul.citations {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations
+.book .book-body .page-wrapper .page-inner section.normal ul.references {
     margin-left: -30px;
 }
 
@@ -106,9 +107,26 @@ ul.citations li:nth-child(1) {
     border-top: 1px solid #BBB;
 }
 
+ul.citations li,
+ul.references li {
+    list-style: outside none none;
+}
+
 ul.citations li {
     font-size: 80%;
-    list-style: outside none none;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li > span,
+.book .book-body .page-wrapper .page-inner section.normal ul.references li > span {
+    display: block;
+    float: left;
+    text-align: right;
+    width: 70px
+}
+
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li > div,
+.book .book-body .page-wrapper .page-inner section.normal ul.references li > div {
+    margin-left: 80px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal a[href="#"],
