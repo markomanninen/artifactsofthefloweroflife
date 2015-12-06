@@ -30,3 +30,11 @@
 {% endfor %}
 
 {% endif %}
+
+{% if book.citations %}
+
+## Citations
+<ul>
+{% for cite in book.citations %}<li>{{ cite }}</li>{% endfor %}
+</ul>
+{% endif %}

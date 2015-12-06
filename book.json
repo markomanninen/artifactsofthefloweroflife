@@ -4,7 +4,7 @@
     "author": "Marko Manninen",
     "isbn": "978-952-68480-0-6 (PDF), 978-952-68480-1-3 (EPUB), 978-952-68480-2-0 (MOBI)",
     
-    "plugins": ["regexplace", "ga", "infinitescroll"],
+    "plugins": ["regexplace", "ga"],
     
     "pluginsConfig": {
         "ga": {
@@ -40,6 +40,15 @@
                     "store": {
                         "substitute": "<a$1</a>",
                         "variable_name": "references"
+                    }
+                },
+                {
+                    "pattern": "<!-- cite author=\"(.*?)\" title=\"(.*?)\" date=\"(.*?)\" location=\"(.*?)\" type=\"(.*?)\"(.*?) -->",
+                    "flags": "g",
+                    "substitute": "<sup><a id=\"cite_INDEX_\" href=\"references.html#ref_PAGE_LEVEL_._INDEX_\" title=\"$1: $2 $3\" type=\"$5\">_INDEX_</a></sup>",
+                    "store": {
+                        "substitute": "<span><a id=\"ref_PAGE_LEVEL_._INDEX_\" href=\"_PAGE_PATH_#cite_INDEX_\">_PAGE_LEVEL_._INDEX_.</a></span> <span>$1:</span> <span><a$6>$2</a></span> <span>$3</span> <span>$4</span>",
+                        "variable_name": "citations"
                     }
                 }
             ]
