@@ -25,6 +25,6 @@ Artifacts of the Flower of Life electronic book is published in four different f
 | **Last updated** | {{ file.mtime }} |
 | **ISBN** | 978-952-68480-0-6 (PDF)<br/>978-952-68480-1-3 (EPUB)<br/>978-952-68480-2-0 (MOBI) |
 | **Collection** | Open-source |
-| **Website** | [http://artifacts.flowerofliferesearch.com](http://artifacts.flowerofliferesearch.com) |
+| **Website** | [http://artifacts.flowerofliferesearch.com](http://artifacts.flowerofliferesearch.com/) |
 
 <!-- endpagewrapper -->
