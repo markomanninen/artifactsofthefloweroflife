@@ -34,15 +34,6 @@
                     }
                 },
                 {
-                    "pattern": "&quot;<a([^>].*?)<\/a>&quot;", 
-                    "flags": "g", 
-                    "substitute": "&quot;<ref><a$1</a></ref>&quot;",
-                    "store": {
-                        "substitute": "<a$1</a>",
-                        "variable_name": "references"
-                    }
-                },
-                {
                     "pattern": "<!-- cite author=\"(.*?)\" title=\"(.*?)\" date=\"(.*?)\" location=\"(.*?)\" type=\"(.*?)\"(.*?) -->",
                     "flags": "g",
                     "substitute": "<sup><a id=\"cite_INDEX_\" href=\"references.html#ref_PAGE_LEVEL_._INDEX_\" title=\"$1: $2 $3\" type=\"$5\">_INDEX_</a></sup>",

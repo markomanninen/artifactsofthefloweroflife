@@ -20,16 +20,14 @@
 * Leonardo da Vinci: Codex Atlanticus (1500)
 * Jalme D.V. Redon: El mosaico romano con inscripcw xiloca 3 iberica de "la caridad" (1989)
 * Lawergren & Gurney: Sound Holes And Geometrical Figures (1987)
+* wikipedia.org
+* wikimedia.org
+* louvre.fr
+* metmuseum.org
+* britishmuseum.org
+* lacma.org
+* christies.com
 
-{% if book.references_ %}
-
-## Citations
-
-{% for reference in book.references %}
-* {{ reference }}
-{% endfor %}
-
-{% endif %}
 
 {% if book.citations %}
 

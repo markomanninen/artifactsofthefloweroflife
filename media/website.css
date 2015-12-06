@@ -118,4 +118,5 @@ ul.citations li {
 .book .book-body .page-wrapper .page-inner section.normal a[href="#"]:focus {
     text-decoration: none;
     color: inherit;
+    cursor: inherit;
 }

@@ -1,4 +1,4 @@
-# Conclusions
+# Conclusions?
 
 I think it is too early to do any firm conclusions of the Flower of Life symbol. Dating of the symbol is hard as it is usual when trying to trace ancient inventions. Often we can talk only in accuracy of thousands years, rather than hundreds, even we speak of relatively new history. But it is clear that history of the FOL goes further than many expects. It makes sense that six petal rosette came first before the FOL preceding rhombus, triangle, hexagon and zig-zag patterns. Oblique slopes resembling 60 degrees angle goes to the neolithic periods and beyond.
 

@@ -15,7 +15,7 @@ The famous ornament found at the stone slab in the Temple of Osiris. Claimed to 
 
 ![Assyrian wall decoration © Sanjin Đumišić](./media/assyrian-wall.jpg){caption=1}
 
-Presumably Assyrian [wall decoration](http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/) in the Pergamon Museum in Berlin. Yet to be dated. (Photo © Sanjin Đumišić)
+Presumably Assyrian wall decoration<!-- cite author="Sanjin Đumišić" title="Sumer - Pergamon Museum in Berlin" date="" location="" type="website" href="http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/" --> in the Pergamon Museum in Berlin. Yet to be dated. (Photo © Sanjin Đumišić)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -44,7 +44,7 @@ An earth sphere under the Fu Dog (or male lion/Buddha). This is a common defende
 
 ![Giant urn © Jamie Janover](./media/giant-urn.jpg){caption=1}
 
-A [giant urn](https://www.facebook.com/JamieJanover.artist.profile/photos/a.10151941325323907.1073741826.57889468906/10152818741383907/?type=1&theater) in the royal gardens of the Forbidden City in Beijing, China. Undated. (Photo © Jamie Janover)
+A giant urn<!-- cite author="Jamie Janover" title="Giant urn" date="" location="" type="website" href="https://www.facebook.com/JamieJanover.artist.profile/photos/a.10151941325323907.1073741826.57889468906/10152818741383907/?type=1&theater" --> in the royal gardens of the Forbidden City in Beijing, China. Undated. (Photo © Jamie Janover)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -53,7 +53,7 @@ A [giant urn](https://www.facebook.com/JamieJanover.artist.profile/photos/a.1015
 
 ![Sikh temple marple decoration](./media/marple-floor.png){caption=1}
 
-[Harmandir Sahib](https://en.wikipedia.org/wiki/Harmandir_Sahib ) (a Sikh temple) marple floor decoration. Amritsar, India. Undated.
+Marple floor decoration in the Harmandir Sahib Sikh temple<!-- cite author="wikipedia.org" title="Harmandir Sahib" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Harmandir_Sahib" -->. Amritsar, India. Undated.
 
 <!-- endnopb -->
 <!-- nopb -->

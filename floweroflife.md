@@ -1,12 +1,12 @@
 # The Flower of Life versus the Cownose
 
-Square shape and square root of 2 is apparent on the Cownose pattern. Equilateral triangle and hexagon shape with the square root of 3 property are fundamental in the FOL. All these properties were known by Old Babylonians as it is shown in the book "*A Remarkable Collection of Babylonian Mathematical Texts*" by Joran Friberg (MS 3051 on the page 207). See also clay tablets: [IM 52916](http://math.berkeley.edu/~lpachter/128a/Babylonian_sqrt2.pdf) and [Susu]( http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf).
+Square shape and square root of 2 is apparent on the Cownose pattern. Equilateral triangle and hexagon shape with the square root of 3 property are fundamental in the FOL. All these properties were known by Old Babylonians as it is shown in the book *A Remarkable Collection of Babylonian Mathematical Texts*<!-- cite author="Joran Friberg" title="A Remarkable Collection of Babylonian Mathematical Texts" date="2007" location="MS 3051 on the page 207" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" --> by Joran Friberg. See also clay tablets: IM 52916<!-- cite author="David Fowler and Eleanor Robson" title="Square Root Approximations in Old Babylonian Mathematics" date="1998" location="" type="article" href="http://math.berkeley.edu/~lpachter/128a/Babylonian_sqrt2.pdf" --> and Susu<!-- cite author="Swapan Kumar Adhikaari" title="Babylonian mathematics" date="1997" location="" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" -->.
 
 But there are incidents in the ancient history that urges the appearance of the FOL before 2000 BC. These incidents are: sexagecimal numeral system, rhombic cone mosaics and six petal cylinders seals.
 
 **Sexagecimal system**
 
-Sexagecimal place value system was known in the ancient Mesopotamia in the 3rd millennium BC. Geometrical link between a circle, a hexagon and the sexagecimal system is genuinely demonstrated by [Jaime Vladimir](http://halshs.archives-ouvertes.fr/docs/00/03/44/42/DOC/geometrical_link_circle_sexagesimal_system.doc). He summarizes it:
+Sexagecimal place value system was known in the ancient Mesopotamia in the 3rd millennium BC. Geometrical link between a circle, a hexagon and the sexagecimal system is genuinely demonstrated by Jaime Vladimir<!-- cite author="Jaime Vladimir" title="A geometrical link between the circle and sexagesimal system " date="2005" location="" type="article" href="http://halshs.archives-ouvertes.fr/docs/00/03/44/42/DOC/geometrical_link_circle_sexagesimal_system.doc" -->. He summarizes it:
 
 > ...these geometrical facts show that there is a geometrical link between the circle and the sexagesimal system and that the division of the circle in 360 equal parts, which corresponds to 360 equal angles or degrees, isn't a choice that is completely independent of the geometry because this division can be suggested by the basic properties of the circles and the equilateral triangles.
 
@@ -16,13 +16,13 @@ The FOL and the sexagecimal system both shares same geometrial and mathematical 
 
 **Cone mosaics**
 
-The pillar [cone mosaic](http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Pergamonmuseum_Inanna_01.jpg) from the ancient Sumerian city, Uruk (3400-3100 BC) shows a tessellation pattern. This 60 degrees zig-zag rhombus pattern formed by two equilateral triangles is inside the FOL geometry as well.
+The pillar cone mosaic<!-- cite author="wikipedia.org" title="Cone mosaic courtyard" date="" location="" type="website" href="http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Pergamonmuseum_Inanna_01.jpg" --> from the ancient Sumerian city, Uruk (3400-3100 BC) shows a tessellation pattern. This 60 degrees zig-zag rhombus pattern formed by two equilateral triangles is inside the FOL geometry as well.
 
-![Cone mosaic on a Uruk facade © BrokenSphere / Wikimedia Commons](./media/StoneConeMosaics.jpg){caption=1 width=474}
+![Cone mosaic on a Uruk facade © Staatliche Museen zu Berlin, Vorderasiatisches Museum. Olaf M. Teßmer](./media/cone-mosaic-columns.jpg){caption=1 width=474}
 
 **Cylinder seal**
 
-The Sumerian brown stone [cylinder seal](http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180) with two six petal rosettes originates from 3000 BC. Similar seals are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). See "*[Ancient Near Eastern Cylinder Seals from the Marcopoli Collection](http://www.ucpress.edu/op.php?isbn=9780520049277)*" (page 177) by Beatrice Teissier. Six petal rosette is a partial symbol inside the FOL pattern.
+The Sumerian brown stone cylinder seal<!-- cite author="christies.com" title="The Sumerian brown stone cylinder seal" date="" location="" type="website" href="http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180" --> with two six petal rosettes originates from 3000 BC. Similar seals are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). See *Ancient Near Eastern Cylinder Seals from the Marcopoli Collection*<!-- cite author="Beatrice Teissier" title="Ancient Near Eastern Cylinder Seals from the Marcopoli Collection" date="1984" location="page 177" type="book" href="http://www.ucpress.edu/op.php?isbn=9780520049277" --> by Beatrice Teissier. Six petal rosette is a partial symbol inside the FOL pattern.
 
 ![Cylinder seals © christies.com (left), Marcopoli Collections (right)](./media/cylinder-seals.png){caption=1}
 
