@@ -157,10 +157,9 @@ sup {
     margin-top: 20px;
     color: #aaa;
 }
-.pdf-footer span sub,
-.pdf-header span sub {
-    margin-bottom: 5px;
-    line-height: 20px;
+.pdf-footer .sub,
+.pdf-header .sub {
+    font-size: 80%;
 }
 .pdf-footer {
     padding-top: 10px;
@@ -183,4 +182,5 @@ sup {
 .pdf-header .header-pages-count a:link {
     text-decoration: none;
     color: inherit;
+    cursor: text;
 }
