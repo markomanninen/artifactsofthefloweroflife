@@ -14,6 +14,6 @@
    * [Undated](undated.md)
 * [Map of artifacts of the Flower of Life](map.md)
 * [Conclusions](conclusions.md)
-* [References](references.md)
-* [Keywords](keywords.md)
 * [Credits](credits.md)
+* [Keywords](keywords.md)
+* [References](references.md)
