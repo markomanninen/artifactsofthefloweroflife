@@ -65,3 +65,5 @@ A [giant urn](https://www.facebook.com/JamieJanover.artist.profile/photos/a.1015
 A Jewish painting that has a Hebrew inscription around the circle of the Flower of Life. Unplaced, Undated.
 
 <!-- endnopb -->
+
+{% include 'footnotes.md' %}

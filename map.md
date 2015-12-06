@@ -8,10 +8,14 @@ The map below<!-- cite author="Marko Manninen" title="Google Maps of the Flower 
 
 <!-- pagewrapper -->
 
-![Mediterranean and Near East map of the FOL items](./media/map2.jpg)
+![Mediterranean and Near East map of the FOL items](./media/map2.jpg){caption=1}
 
-![World map of the FOL items](./media/map.jpg)
+<!-- endpagewrapper -->
 
 {% include 'footnotes.md' %}
+
+<!-- pagewrapper -->
+
+![World map of the FOL items](./media/map.jpg)
 
 <!-- endpagewrapper -->

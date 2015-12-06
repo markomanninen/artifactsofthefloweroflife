@@ -66,25 +66,26 @@ div#map\.md {
     text-align: center;
 }
 
-div#map\.md img {
+div#map\.md img,
+div#map\.md figure {
     display: none;
 }
 
 /* credits page */
 
-div#credits\.md ul {
+ul.pictures {
     margin-left: -30px;
 }
 
-div#credits\.md ul li {
+ul.pictures li {
     list-style: outside none none;
 }
 
-div#credits\.md ul li a {
+ul.pictures li a {
     float: left;
 }
 
-div#credits\.md ul li span {
+ul.pictures li span {
     display: block;
     margin-left: 100px;
 }

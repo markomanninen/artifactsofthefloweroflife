@@ -2,7 +2,7 @@
 
 I have ordered the following list of the FOL artifacts by time from the oldest to the newest and added undated items to the end of the list. I hope this list will help further investigators to find out more details of the objects. Origin and history of listed artifacts can reveal more about the history of the FOL itself.
 
-On picture descriptions I'm going to tell shortly where objects can be found, dating of the objects and sometimes other additional notes, links and references. It is very probable that more objects with the FOL symbol attached on them will be found in future. Think approximately half a million clay tablets that has been excavated from the Near East so far. Reading, cataloging and interpreting them is still considered to be in child steps. Many times more tablets are supposed to hide under the desert sands. Same applies to treasures in Egypt. Maybe thousands of relating objects are in private collections around the world waiting to see the daylight in uncertain future. Many museums doesn't have online picture collections of the objects yet, but are constantly doing work to get information open for public.
+On picture descriptions I'm going to tell shortly where objects can be found, dating of the objects and sometimes other additional notes, links and references. It is very probable that more objects with the FOL symbol attached on them will be found in future. Think approximately half a million clay tablets that has been excavated from the Near East so far. Reading, cataloging and interpreting them is still considered to be in child steps. Many times more tablets are supposed to hide under the desert sands<!-- cite author="Bill T. Arnold" title="Who Were The Babylonians?" date="2005" location="page 13" type="book" href="#" -->. Same applies to treasures in Egypt. Maybe thousands of relating objects are in private collections around the world waiting to see the daylight in uncertain future. Many museums doesn't have online picture collections of the objects yet, but are constantly doing work to get information open for public.
 
 Only when individuals and researchers has this particular subject on their mind, they may pay attention to the FOL geometry on artifacts. For example the silver goblet in the Medelhavsmuseet in Stockholm was found only, when I realized week earlier that the FOL can be seen from the bottom or the underside of the object. When I saw attracting silver item in the museum glass vitrine, my first thing to do was to peek inside it. It was truly amazing to see the perfect FOL appearing there right under my eyes.
 
@@ -71,3 +71,5 @@ Only when individuals and researchers has this particular subject on their mind,
 |Jewish painting|-|AD|
 
 <!-- endnopb -->
+
+{% include 'footnotes.md' %}

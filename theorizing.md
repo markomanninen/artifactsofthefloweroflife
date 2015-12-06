@@ -11,3 +11,5 @@ Then I will selectively list main occurrences of the FOL symbol accompanied by p
 More popular symbol from ancient times, the Cownose symbol, is crucial for understanding the FOL. It will give required historical and symbolical context to the FOL symbol. The Cownose symbol is a notable and a lot researched figure so I won't use time to list occurrences of it. I'm just going to pinpoint some research journals and books mentioning the Cownose.
 
 Understanding the history of the Cownose will also help on dating issues with the FOL. Association between these two symbols is not recognized and understood enough in my opinion.
+
+{% include 'footnotes.md' %}

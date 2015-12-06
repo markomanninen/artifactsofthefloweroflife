@@ -41,3 +41,5 @@ Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopota
 <!-- endnote -->
 
 Strictly speaking first occurrences of the FOL are available on artifacts from 1600 - 1500 BC. And the first FOL as a complete symbol as Melchizedek has described it, is from Marlik, 1400 - 1100 BC. That is, if the occurrence from Abydos is not counted because of dating debate around it.
+
+{% include 'footnotes.md' %}

@@ -25,3 +25,5 @@ In "[Sound Holes And Geometrical Figures](http://www.hunter.cuny.edu/physics/fac
 It could rather be that the Apsamikku generally refers to a hole, a window or a frame in the figure, not the exact shape of it. Then the name of the FOL symbol could have been Apsamikku + some affix. Determining the case is outside of the scope of this essay, but intriguing enough. If the FOL symbol/pattern had any particular name for ancients, I leave it for future speculations.
 
 ![Harappan jars with the Cownose pattern © Dakshayini (left), Ismoon (right)](./media/harappan-jars.jpg){caption=1 width=500}
+
+{% include 'footnotes.md' %}
