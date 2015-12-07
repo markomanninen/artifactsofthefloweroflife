@@ -25,28 +25,6 @@
                     "decode": true
                 },
                 {
-                    "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
-                    "flags": "g",
-                    "substitute": "$1",
-                    "unreset": true,
-                    "store": {
-                        "substitute": "{$1}",
-                        "unique": true,
-                        "lower": true,
-                        "variable_name": "uniquewords"
-                    }
-                },
-                {
-                    "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
-                    "flags": "g",
-                    "substitute": "$1",
-                    "unreset": true,
-                    "store": {
-                        "substitute": "{$1}",
-                        "variable_name": "allwords"
-                    }
-                },
-                {
                     "pattern": "<img (.*)alt=\"([^\"]*)\"(.*) {0,1}\/{0,1}><figcaption></figcaption>", 
                     "flags": "g", 
                     "substitute": "<img$1alt=\"$2\"$3><figcaption><span>Picture _PAGE_LEVEL_._INDEX_</span>: $2</figcaption>",
@@ -66,6 +44,30 @@
                 }
             ]
         },
+        "": [
+            {
+                "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                "flags": "g",
+                "substitute": "$1",
+                "unreset": true,
+                "store": {
+                    "substitute": "{$1}",
+                    "unique": true,
+                    "lower": true,
+                    "variable_name": "uniquewords"
+                }
+            },
+            {
+                "pattern": "((?!([^<]+)?>)([0-9A-Za-z\\u0080-\\u00FF'.-]?)+(?!([^{]+)?})([0-9A-Za-z\\u0080-\\u00FF'])?(?!([^&]+)?;)([0-9A-Za-z\\u0080-\\u00FF']))",
+                "flags": "g",
+                "substitute": "$1",
+                "unreset": true,
+                "store": {
+                    "substitute": "{$1}",
+                    "variable_name": "allwords"
+                }
+            }
+        ],
         "sitemap": {
             "hostname": "http://artifacts.flowerofliferesearch.com/"
         }
@@ -77,7 +79,7 @@
         "citations": []
     },
     "pdf": {
-        "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_SECTION_</span> <span class=\"header-pages-count\"><sub><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></sub></span></div></body></html>",
+        "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_SECTION_&nbsp;</span> <span class=\"header-pages-count\"><sub><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></sub></span></div></body></html>",
         "footerTemplate": "<html><body><div class=\"pdf-footer\"><span class=\"sub\"><sub>_TITLE_ | Published: 12/12/2015 | Updated: 12/12/2015 | _AUTHOR_ © 2015</sub></span> <span class=\"footer-pages-count\"> _PAGENUM_</span></body></html>"
     },
     "styles": {
