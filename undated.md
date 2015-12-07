@@ -22,11 +22,11 @@ Presumably Assyrian wall decoration<!-- cite author="Sanjin Đumišić" title="S
 
 #### Six-petal flower lunette
 
-![Six-petal flower on lunette © Marko Manninen / Creative Commons](./media/rosette-lunette.jpg){caption=1}
+![Six-petal flower on lunette © Marko Manninen](./media/rosette-lunette.jpg){caption=1}
 
-![Intersecting circles on lunette (zoom) © Marko Manninen / Creative Commons](./media/rosette-lunette2.jpg){caption=1}
+![Intersecting circles on lunette (zoom) © Marko Manninen](./media/rosette-lunette2.jpg){caption=1}
 
-A six-petal flower lunette above the door of the Orthodox chapel (upper picture). The more complex pattern of intersecting circles can be seen on both sides of the center circle when the picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photos © Marko Manninen / Creative Commons)
+A six-petal flower lunette above the door of the Orthodox chapel (upper picture). The more complex pattern of intersecting circles can be seen on both sides of the center circle when the picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photos © Marko Manninen)
 
 <!-- endnopb -->
 <!-- nopb -->
