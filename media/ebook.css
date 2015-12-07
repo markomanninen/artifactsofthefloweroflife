@@ -157,9 +157,11 @@ sup {
     margin-top: 20px;
     color: #aaa;
 }
-.pdf-footer .sub,
-.pdf-header .sub {
-    font-size: 80%;
+.pdf-footer sub {
+    margin-top: 8px;
+}
+.pdf-header sub {
+    margin-top: 3px;
 }
 .pdf-footer {
     padding-top: 10px;
