@@ -77,8 +77,8 @@
         "citations": []
     },
     "pdf": {
-        "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_SECTION_&nbps;</span><span class=\"header-pages-count\">&nbps;<sub><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></sub></span></div></body></html>",
-        "footerTemplate": "<html><body><div class=\"pdf-footer\"><span class=\"sub\"><sub>_TITLE_ | Published: 12/12/2015 | Updated: 12/12/2015 | _AUTHOR_ © 2015</sub></span><span class=\"footer-pages-count\"> _PAGENUM_</span></body></html>"
+        "headerTemplate": "<html><body><div class=\"pdf-header\"><span>_SECTION_</span> <span class=\"header-pages-count\"><sub><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></sub></span></div></body></html>",
+        "footerTemplate": "<html><body><div class=\"pdf-footer\"><span class=\"sub\"><sub>_TITLE_ | Published: 12/12/2015 | Updated: 12/12/2015 | _AUTHOR_ © 2015</sub></span> <span class=\"footer-pages-count\"> _PAGENUM_</span></body></html>"
     },
     "styles": {
         "website": "media/website.css",
