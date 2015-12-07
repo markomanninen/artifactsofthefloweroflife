@@ -20,13 +20,13 @@ Presumably Assyrian wall decoration<!-- cite author="Sanjin Đumišić" title="S
 <!-- endnopb -->
 <!-- nopb -->
 
-#### Six petal flower lunette
+#### Six-petal flower lunette
 
-![Six petal flower on lunette © Marko Manninen / Creative Commons](./media/rosette-lunette.jpg){caption=1}
+![Six-petal flower on lunette © Marko Manninen / Creative Commons](./media/rosette-lunette.jpg){caption=1}
 
 ![Intersecting circles on lunette (zoom) © Marko Manninen / Creative Commons](./media/rosette-lunette2.jpg){caption=1}
 
-A six petal flower lunette above the door of the Orthodox chapel (upper picture). More complex pattern of intersecting circles can be seen on both sides of the center circle when picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photos © Marko Manninen / Creative Commons)
+A six-petal flower lunette above the door of the Orthodox chapel (upper picture). The more complex pattern of intersecting circles can be seen on both sides of the center circle when the picture is zoomed in (lower picture). Patmos, Chora, Greece. Undated. (Photos © Marko Manninen / Creative Commons)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -51,9 +51,9 @@ A giant urn<!-- cite author="Jamie Janover" title="Giant urn" date="" location="
 
 #### Sikh temple marble floor
 
-![Sikh temple marple decoration](./media/marple-floor.png){caption=1 width=600}
+![Sikh temple marble decoration](./media/marble-floor.png){caption=1 width=600}
 
-Marple floor decoration in the Harmandir Sahib Sikh temple<!-- cite author="wikipedia.org" title="Harmandir Sahib" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Harmandir_Sahib" -->. Amritsar, India. Undated.
+Marble floor decoration in the Harmandir Sahib Sikh temple<!-- cite author="wikipedia.org" title="Harmandir Sahib" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Harmandir_Sahib" -->. Amritsar, India. Undated.
 
 <!-- endnopb -->
 <!-- nopb -->
