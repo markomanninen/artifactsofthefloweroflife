@@ -12,13 +12,13 @@ Sexagecimal place value system was known in the ancient Mesopotamia in the 3rd m
 
 The FOL and the sexagecimal system both shares same geometrical and mathematical properties. It means they would mutually benefit from the existence of each other.
 
-![Abacus or calculation table in base 60 © Jaime Vladimir](./media/abacus-table.png){caption=1 width=474}
+![Abacus or calculation table in base 60 © Jaime Vladimir](./media/abacus-table.png){caption=1 width=300}
 
 **Cone mosaics**
 
 The pillar cone mosaic<!-- cite author="wikipedia.org" title="Cone mosaic courtyard" date="" location="" type="website" href="http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Pergamonmuseum_Inanna_01.jpg" --> from the ancient Sumerian city, Uruk (3400 - 3100 BC) shows a tessellation pattern. This 60 degrees zig-zag rhombus pattern formed by two equilateral triangles is inside the FOL geometry as well.
 
-![Cone mosaic on a Uruk facade © Staatliche Museen zu Berlin, Vorderasiatisches Museum. Olaf M. Teßmer](./media/cone-mosaic-columns.jpg){caption=1 width=474}
+![Cone mosaic on a Uruk facade © Staatliche Museen zu Berlin, Vorderasiatisches Museum. Olaf M. Teßmer](./media/cone-mosaic-columns.jpg){caption=1 width=600}
 
 **Cylinder seal**
 

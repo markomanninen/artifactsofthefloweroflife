@@ -4,7 +4,7 @@
 
 #### Ornament at the Temple of Osiris
 
-![Abydos ornament © Ray Flowers](./media/abydos-ornament.jpg){caption=1}
+![Abydos ornament © Ray Flowers](./media/abydos-ornament.jpg){caption=1 width=600}
 
 The famous ornament found at the stone slab in the Temple of Osiris. Claimed to have origins from 3000 BC (or even much older), but critical analysis gives dates from 400 - 200 BC to even after 1900 AD. Abydos, Egypt. (Photo © Ray Flowers)
 
@@ -13,7 +13,7 @@ The famous ornament found at the stone slab in the Temple of Osiris. Claimed to 
 
 #### Assyrian wall decoration
 
-![Assyrian wall decoration © Sanjin Đumišić](./media/assyrian-wall.jpg){caption=1}
+![Assyrian wall decoration © Sanjin Đumišić](./media/assyrian-wall.jpg){caption=1 width=600}
 
 Presumably Assyrian wall decoration<!-- cite author="Sanjin Đumišić" title="Sumer - Pergamon Museum in Berlin" date="" location="" type="website" href="http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/" --> in the Pergamon Museum in Berlin. Yet to be dated. (Photo © Sanjin Đumišić)
 
@@ -33,7 +33,7 @@ A six petal flower lunette above the door of the Orthodox chapel (upper picture)
 
 #### Fu Dog Sphere
 
-![Fu Dog sphere © Tyson Amick](./media/fu-dog.jpg){caption=1}
+![Fu Dog sphere © Tyson Amick](./media/fu-dog.jpg){caption=1 width=600}
 
 An earth sphere under the Fu Dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. In the picture is one of the stone lions guarding the Jing'An Temple in Shanghai, China. Undated. (Photo © Tyson Amick)
 
@@ -42,7 +42,7 @@ An earth sphere under the Fu Dog (or male lion/Buddha). This is a common defende
 
 #### Giant urn
 
-![Giant urn © Jamie Janover](./media/giant-urn.jpg){caption=1}
+![Giant urn © Jamie Janover](./media/giant-urn.jpg){caption=1 width=600}
 
 A giant urn<!-- cite author="Jamie Janover" title="Giant urn" date="" location="" type="website" href="https://www.facebook.com/JamieJanover.artist.profile/photos/a.10151941325323907.1073741826.57889468906/10152818741383907/?type=1&theater" --> in the royal gardens of the Forbidden City in Beijing, China. Undated. (Photo © Jamie Janover)
 
@@ -51,7 +51,7 @@ A giant urn<!-- cite author="Jamie Janover" title="Giant urn" date="" location="
 
 #### Sikh temple marble floor
 
-![Sikh temple marple decoration](./media/marple-floor.png){caption=1}
+![Sikh temple marple decoration](./media/marple-floor.png){caption=1 width=600}
 
 Marple floor decoration in the Harmandir Sahib Sikh temple<!-- cite author="wikipedia.org" title="Harmandir Sahib" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Harmandir_Sahib" -->. Amritsar, India. Undated.
 
@@ -60,7 +60,7 @@ Marple floor decoration in the Harmandir Sahib Sikh temple<!-- cite author="wiki
 
 #### Jewish painting
 
-![Jewish painting](./media/jewish-painting.jpg){caption=1}
+![Jewish painting](./media/jewish-painting.jpg){caption=1 width=600}
 
 A Jewish painting that has a Hebrew inscription around the circle of the Flower of Life. Unplaced, Undated.
 
