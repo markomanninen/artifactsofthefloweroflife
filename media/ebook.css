@@ -170,9 +170,11 @@ sup:before {
     color: #aaa;
 }
 .pdf-footer .sub {
+    padding-top: 4px;
     font-size: 80%;
 }
 .pdf-header .sub {
+    padding-top: 2px;
     font-size: 80%;
 }
 .pdf-footer {
