@@ -102,6 +102,7 @@ ul.pictures li span {
 
 sup {
     margin-left: -1px;
+    margin-right: 2px;
 }
 
 sup:before {
