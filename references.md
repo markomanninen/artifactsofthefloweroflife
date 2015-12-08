@@ -1,5 +1,7 @@
 # References
 
+### Bibliography
+
 * Drunvalo Melchizedek: The ancient secret of the Flower of Life, Vol. 1&2 (1999 & 2000)
 * Eleanor Robson: Mesopotamian mathematics (1999)
 * Eleanor Robson: The apsamikku in Neo-Babylonian Mathematics (2007)
@@ -20,18 +22,23 @@
 * Leonardo da Vinci: Codex Atlanticus (1500)
 * Jalme D.V. Redon: El mosaico romano con inscripcw xiloca 3 iberica de "la caridad" (1989)
 * Lawergren & Gurney: Sound Holes And Geometrical Figures (1987)
-* wikipedia.org
-* wikimedia.org
-* louvre.fr
-* metmuseum.org
-* britishmuseum.org
-* lacma.org
-* christies.com
+
+### Websites
+
+* [wikipedia.org](http://wikipedia.org)
+* [wikimedia.org](http://wikimedia.org)
+* [louvre.fr](http://louvre.fr)
+* [metmuseum.org](http://metmuseum.org)
+* [britishmuseum.org](http://britishmuseum.org)
+* [lacma.org](http://lacma.org)
+* [christies.com](http://christies.com)
+* [pinterest.com](http://pinterest.com)
+* [flickr.com](http://flickr.com)
 
 
 {% if book.citations %}
 
-## Citations
+### Citations
 <ul class="references">
 {% for cite in book.citations %}<li>{{ cite }}</li>{% endfor %}
 </ul>
