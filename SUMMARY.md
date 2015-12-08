@@ -4,7 +4,7 @@
 * [Reflections after the research journey](reflections.md)
 * [Theorizing the origins](theorizing.md)
    * [Cownose](cownose.md)
-   * [The Flower of Life versus the Cownose](floweroflife.md)
+   * [Flower of Life versus Cownose](floweroflife.md)
 * [Early visible traces](earlytraces.md)
 * [At the dawn of the Common Era](commonera.md)
 * [1500 AD and still going strong](1500ad.md)

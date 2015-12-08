@@ -1,19 +1,27 @@
 /* image captions */
 
 figure {
-    margin: 1.5em 0px;
+    margin: 1.0em 0px;
     padding: 10px 0;
     text-align: center;
+    page-break-inside: avoid;
+    display: block;
+}
+
+figure img {
+    display: block;
+    margin: 0 auto;
 }
 
 figcaption {
     clear: left;
-    margin: 0.75em 0px;
+    margin: 1.0em 0 0 0;
     text-align: center;
     font-style: italic;
     line-height: 1.5em;
     font-size: 80%;
     color: #666;
+    display: block;
 }
 
 /* table headers */
@@ -93,7 +101,11 @@ ul.pictures li span {
 /* citations */
 
 sup {
-    padding: 2px;
+    margin-left: -1px;
+}
+
+sup:before {
+    content: " ";
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.citations,
@@ -146,3 +158,27 @@ ul.citations li {
     cursor: text;
     font-style: italic;
 }
+
+/*
+
+body#fp-README {
+    border: 1px solid red;
+}
+
+body#fp-1500ad {
+    border: 1px solid red;
+}
+
+figure#fig2\.2\.1 img,
+figure#fig2\.2\.3 img {
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+}
+
+figure#fig6\.3\.7 img,
+figure#fig6\.3\.8 img {
+    -webkit-filter: blur(5px);
+    filter: blur(5px);
+}
+
+*/
