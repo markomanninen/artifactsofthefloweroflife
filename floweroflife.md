@@ -2,7 +2,7 @@
 
 The square shape and square root of 2 are apparent on the Cownose pattern. Equilateral triangle and hexagon shape with the square root of 3 -property are fundamental in the FOL. All these properties were known by Old Babylonians as it is shown in the book *A Remarkable Collection of Babylonian Mathematical Texts*<!-- cite author="Joran Friberg" title="A Remarkable Collection of Babylonian Mathematical Texts" date="2007" location="MS 3051 on the page 207" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" --> by Joran Friberg. See also clay tablets: IM 52916<!-- cite author="David Fowler and Eleanor Robson" title="Square Root Approximations in Old Babylonian Mathematics" date="1998" location="" type="article" href="http://math.berkeley.edu/~lpachter/128a/Babylonian_sqrt2.pdf" --> and Susu<!-- cite author="Swapan Kumar Adhikaari" title="Babylonian mathematics" date="1997" location="" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" -->.
 
-But there are incidents in the ancient history that urge the appearance of the FOL before 2000 BC. These incidents are THE sexagesimal numeral system, rhombic cone mosaics, and six-petal cylinder seals.
+But there are incidents in the ancient history that urge the appearance of the FOL before 2000 BC. These incidents are the sexagesimal numeral system, rhombic cone mosaics, and six-petal cylinder seals.
 
 **Sexagesimal system**
 
@@ -40,6 +40,6 @@ Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopota
 
 <!-- endnote -->
 
-Strictly speaking first occurrences of the FOL are available on artifacts from 1600 - 1500 BC. And the first FOL as a complete symbol as Melchizedek has described it, is from Marlik, 1400 - 1100 BC. That is, if the occurrence from Abydos is not counted because of dating debate around it.
+Strictly speaking, first occurrences of the FOL are available on artifacts from 1600 - 1500 BC. And the first FOL as a complete symbol as Melchizedek has described it, is from Marlik, 1400 - 1100 BC. That is, if the occurrence from Abydos is not counted because of dating debate around it.
 
 {% include 'footnotes.md' %}

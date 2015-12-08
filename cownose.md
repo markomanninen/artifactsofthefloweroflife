@@ -16,7 +16,7 @@ According to Robson, in *The apsamikku in Neo-Babylonian Mathematics*<!-- cite a
 
 > ...from Halaf pottery of the sixth millennium BC to images of Neo-Assyrian textile in Syria...
 
-It is probable that the Cownose pattern came somewhere from the ancient Fertile Crescent. At least the earliest evidence we know comes from that area.
+It is probable that the Cownose pattern came somewhere from the ancient Fertile Crescent. At least, the earliest evidence we know comes from that area.
 
 ![Ceremonial vessel with the Cownose pattern from Harappan © LACMA](./media/CeremonialVessel.jpg){caption=1 width=600}
 
