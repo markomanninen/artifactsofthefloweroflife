@@ -1,19 +1,20 @@
 /* image captions */
 
 figure {
-    margin: 1.5em 0px;
+    margin: 1.0em 0px;
     padding: 10px 0;
     text-align: center;
 }
 
 figcaption {
     clear: left;
-    margin: 0.75em 0px;
+    margin: 0.6em 0 0 0;
     text-align: center;
     font-style: italic;
     line-height: 1.5em;
     font-size: 80%;
     color: #666;
+    display: block;
 }
 
 /* table headers */

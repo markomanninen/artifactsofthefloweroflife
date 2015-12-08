@@ -12,7 +12,9 @@ Sexagesimal place value system was known in the ancient Mesopotamia in the 3rd m
 
 The FOL and the sexagesimal system both shares same geometrical and mathematical properties. It means they would mutually benefit from the existence of each other.
 
+<!--
 ![Abacus or calculation table in base 60 © Jaime Vladimir](./media/abacus-table.png){caption=1 width=300}
+-->
 
 **Cone mosaics**
 
