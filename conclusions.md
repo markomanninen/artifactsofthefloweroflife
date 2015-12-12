@@ -12,9 +12,7 @@ Are we thus forced to follow a more intuitive path and face the old Greek myth o
 
 Interestingly tessellation figure (the saw) and circle drawing tool (the compass) are combined on the same story. Perdix, who was saved by getting wings, witnessed the fall of the Icarus, who lost his wings. Let's take an advice from the instructive legend and be moderate with further conclusions at this point.
 
-As it is with dating, it is with locating. Where did a sophisticated sense of geometric forms develop to such a degree that the FOL was in the ability of a human to be drawn? We shouldn't forget that designs of Samarra dishes<!-- cite author="Marko Manninen" title="Samarra geometry Pinterest board" date="" location="" type="website" href="https://www.pinterest.com/markomanninen/samarra-geometry/" --> are amazingly sophisticated while they go as far as 7500 years back to the history:
-
-![Samarra dishes from 5000 BC © Oriental Institute (top left), Dbachmann (top right), Journal of Near Eastern Studies (bottom)](./media/samarra.jpg){caption=1}
+As it is with dating, it is with locating. Where did a sophisticated sense of geometric forms develop to such a degree that the FOL was in the ability of a human to be drawn? We shouldn't forget that designs of Samarra dishes<!-- cite author="Marko Manninen" title="Samarra geometry Pinterest board" date="" location="" type="website" href="https://www.pinterest.com/markomanninen/samarra-geometry/" --> are amazingly refined while they go as far as 7500 years back in the history.
 
 What was the meaning of the FOL then? It is unlikely that the name and the meaning were carried out from millennium to millennium and through different cultures unchanged and same. Sometimes symbol was probably used as an interesting decoration and ornament, pleasing and exciting on the eye of an artisan, maybe without any specific profound meaning and name. Sometimes it appears clearly on a religious context. Later, when I'm struggling more with the mathematical and geometrical properties of the FOL as well as doing comparative mythological and etymological studies, I will present possible meanings and names attached to the symbol.
 

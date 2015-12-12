@@ -12,21 +12,19 @@ Sexagesimal place value system was known in the ancient Mesopotamia in the 3rd m
 
 The FOL and the sexagesimal system both shares same geometrical and mathematical properties. It means they would mutually benefit from the existence of each other.
 
-<!--
-![Abacus or calculation table in base 60 © Jaime Vladimir](./media/abacus-table.png){caption=1 width=300}
--->
 
 **Cone mosaics**
 
 The pillar cone mosaic<!-- cite author="wikipedia.org" title="Cone mosaic courtyard" date="" location="" type="website" href="http://en.wikipedia.org/wiki/Uruk#mediaviewer/File:Pergamonmuseum_Inanna_01.jpg" --> from the ancient Sumerian city, Uruk (3400 - 3100 BC) shows a tessellation pattern. This 60 degrees zig-zag rhombus pattern formed by two equilateral triangles is inside the FOL geometry as well.
 
-![Cone mosaic on a Uruk facade © Staatliche Museen zu Berlin, Vorderasiatisches Museum. Olaf M. Teßmer](./media/cone-mosaic-columns.jpg){caption=1 width=600}
+![Cone mosaic on a Uruk facade © Zentralarchiv der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz](./media/cone-mosaic-columns.jpg){caption=1 width=600}
+
+<!-- http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1755522&viewType=detailView -->
 
 **Cylinder seal**
 
-The Sumerian brown stone cylinder seal<!-- cite author="christies.com" title="The Sumerian brown stone cylinder seal" date="" location="" type="website" href="http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180" --> with two six petal rosettes originates from 3000 BC. Similar seals are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). See *Ancient Near Eastern Cylinder Seals from the Marcopoli Collection*<!-- cite author="Beatrice Teissier" title="Ancient Near Eastern Cylinder Seals from the Marcopoli Collection" date="1984" location="page 177" type="book" href="http://www.ucpress.edu/op.php?isbn=9780520049277" --> by Beatrice Teissier. Six petal rosette is a partial symbol inside the FOL pattern.
+The Sumerian brown stone cylinder seal<!-- cite author="christies.com" title="The Sumerian brown stone cylinder seal" date="" location="" type="website" href="http://www.christies.com/lotfinder/lot/a-sumerian-brown-stone-cylinder-seal-early-2067180-details.aspx?intObjectID=2067180" --> with two six petal rosettes originates from 3000 BC. Similar seals are repeatedly found from the late Uruk and Jemdet Nasr period (3100-2900 BC). See *Ancient Near Eastern Cylinder Seals from the Marcopoli Collection*<!-- cite author="Beatrice Teissier" title="Ancient Near Eastern Cylinder Seals from the Marcopoli Collection" date="1984" location="page 117, no. 18" type="book" href="http://www.ucpress.edu/op.php?isbn=9780520049277" --> by Beatrice Teissier. Six petal rosette is a partial symbol inside the FOL pattern.
 
-![Cylinder seals © christies.com (left), Marcopoli Collections (right)](./media/cylinder-seals.png){caption=1}
 
 **Trivial design**
 

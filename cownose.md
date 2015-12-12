@@ -8,7 +8,7 @@ Intersecting circles forming the concave square or the so-called Apsamikku is di
 
 The Apsamikku is translated as the Cownose which refers to the exterior shape of the Stingray<!-- cite author="wikipedia.org" title="Cownose rays" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Cownose_ray#/media/File:Cownose_Rays.jpg" --> fish. Naming convention in the current geometric context is a bit confusing. Cow-nose likeness of the Stingray comes from the lobes and a notched head of the Stingray. This is why the Stingray fish is also called the Cownose ray. The Apsamikku symbol doesn't look like the nose of a cow. It looks like the peripheral shape of the Cownose ray.
 
-![Cownose rays resembling the Cownose pattern © Doc Lucio / Wikimedia Commons](./media/cownoseray.jpg){caption=1 width=600}
+![Cownose rays resembling the Cownose pattern © Doc Lucio](./media/cownoseray.jpg){caption=1 width=600}
 
 Ceremonial vessel<!-- cite author="wikipedia.org" title="Ceremonial vessel, Harappan, 2600 - 2450 BCE" date="" location="" type="website" href="https://en.wikipedia.org/wiki/Indus_Valley_Civilization#/media/File:Ceremonial_Vessel_LACMA_AC1997.93.1.jpg" --> from Indus Valley civilization period (2600 - 2450 BC) and other objects<!-- cite author="Marko Manninen" title="Cownose Pinterest board" date="" location="" type="website" href="http://www.pinterest.com/markomanninen/cows-nose/" -->  from Harappan and Mohenjo-Daro indicates that the Cownose pattern was known in the Indus Valley already in 3000 BC.
 

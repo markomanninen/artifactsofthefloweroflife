@@ -22,8 +22,8 @@ Flower of Life wiki page<!-- cite author="wikipedia.org" title="Flower of Life a
 
 * Golden rosettes (pic. [6.1.1](2000-0bc.md#fig6.1.1)) from Mycenae, Greece
 * Cosmetic boxes (pic. [6.1.2](2000-0bc.md#fig6.1.2)) from Thebes, Egypt
-* Ivory whorls (pic. [6.1.6](2000-0bc.md#fig6.1.6)) from Cyprus
-* Golden and silver goblets (pic. [6.1.3](2000-0bc.md#fig6.1.3), [6.1.5](2000-0bc.md#fig6.1.5), [6.1.14](2000-0bc.md#fig6.1.14)) from Marlik, Northern Iran
+* Ivory whorls (pic. [6.1.5](2000-0bc.md#fig6.1.5)) from Cyprus
+* Golden and silver goblets (pic. [6.1.3](2000-0bc.md#fig6.1.3), [6.1.14](2000-0bc.md#fig6.1.14)) from Marlik, Northern Iran
 
 Many topics surrounding the FOL are highly controversial. This is due to Melchizedek's background in the New Age philosophy. But that shouldn't limit people from doing further research and seeking the origin of the symbol.
 

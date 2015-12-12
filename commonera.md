@@ -1,6 +1,6 @@
 # At the dawn of the Common Era
 
-One interesting point is that the FOL symbol was extensively used by Jews, Greeks and Romans around the dawn of the new era, 100 BC - 200 AD. Especially mosaic floors (pic. [6.1.16](2000-0bc.md#fig6.1.16), [6.1.17](2000-0bc.md#fig6.1.17), [6.1.18](2000-0bc.md#fig6.1.18), [6.1.19](2000-0bc.md#fig6.1.19), [6.2.1](0-2000ad.md#fig6.2.1)) pop up from the history using the FOL theme often next to the Cownose decoration motif.
+One interesting point is that the FOL symbol was extensively used by Jews, Greeks and Romans around the dawn of the new era, 100 BC - 200 AD. Especially mosaic floors (pic. [6.1.11](2000-0bc.md#fig6.1.11), [6.1.12](2000-0bc.md#fig6.1.12), [6.1.13](2000-0bc.md#fig6.1.13), [6.2.1](0-2000ad.md#fig6.2.1)) pop up from the history using the FOL theme often next to the Cownose decoration motif.
 
 Decorations in the temples of Herod and in the religious center of Ephesus are one of the most beautiful and complete forms of the FOL.
 
