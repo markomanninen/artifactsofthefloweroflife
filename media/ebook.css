@@ -74,8 +74,13 @@ div.note {
 
 /* google map page */
 
+div#map\.md,
 div#map\.md p {
     text-align: center;
+}
+
+div#map\.md p img {
+    height: 100%;
 }
 
 div.googlemaps {
