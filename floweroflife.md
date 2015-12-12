@@ -10,10 +10,9 @@ Sexagesimal place value system was known in the ancient Mesopotamia in the 3rd m
 
 > ...these geometrical facts show that there is a geometrical link between the circle and the sexagesimal system and that the division of the circle in 360 equal parts, which corresponds to 360 equal angles or degrees', isn't a choice that is completely independent of the geometry because this division can be suggested by the basic properties of the circles and the equilateral triangles.
 
-![Abacus or calculation table in base 60 © Jaime Vladimir Torres-Heredia](./media/abacus-table.png){caption=1 width=300}
-
 The FOL and the sexagesimal system both shares same geometrical and mathematical properties. It means they would mutually benefit from the existence of each other.
 
+![Abacus or calculation table in base 60 © Jaime Vladimir Torres-Heredia](./media/abacus-table.png){caption=1 width=300}
 
 **Cone mosaics**
 
