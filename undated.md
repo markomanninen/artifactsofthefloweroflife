@@ -6,7 +6,7 @@
 
 ![Abydos ornament © Ray Flowers](./media/abydos-ornament.jpg){caption=1 width=600}
 
-The famous ornament found at the stone slab in the Temple of Osiris. Claimed to have origins from 3000 BC (or even much older), but critical analysis gives dates from 400 - 200 BC to even after 1900 AD. Abydos, Egypt. (Photo © Ray Flowers)
+The famous ornament found at the stone slab in the Temple of Osiris. Claimed to have origins in 3000 BC (or even much older), but critical analysis gives dates from 400 - 200 BC to even after 1900 AD. Abydos, Egypt. (Photo © Ray Flowers)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -17,7 +17,7 @@ The famous ornament found at the stone slab in the Temple of Osiris. Claimed to 
 
 ![Assyrian wall decoration 2 © Sanjin Đumišić](./media/assyrian-wall2.jpg){caption=1 width=600}
 
-Assyrian wall decorations<!-- cite author="Sanjin Đumišić" title="Sumer - Pergamon Museum in Berlin" date="" location="" type="website" href="http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/" --> in the Pergamon Museum in Berlin. Second picture has very similar ornament than Shefton has pointed in his book about Greek Vases<!-- cite author="B.B. Shefton" title="Greek vases" date="1989" location="page 54" type="website" href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892361506.pdf" -->. Yet to be dated, possibly from 1st millennium BC. (Photo © Sanjin Đumišić)
+Assyrian wall decorations<!-- cite author="Sanjin Đumišić" title="Sumer - Pergamon Museum in Berlin" date="" location="" type="website" href="http://sanjindumisic.com/sumer-pergamon-museum-in-berlin/" --> in the Pergamon Museum in Berlin. Second picture has very similar ornament than Shefton has pointed in his book about *Greek Vases*<!-- cite author="B.B. Shefton" title="Greek vases" date="1989" location="page 54" type="website" href="http://d2aohiyo3d3idm.cloudfront.net/publications/virtuallibrary/0892361506.pdf" -->. Yet to be dated, possibly from 1st millennium BC. (Photo © Sanjin Đumišić)
 
 <!-- endnopb -->
 <!-- nopb -->
@@ -37,7 +37,7 @@ A six-petal flower lunette above the door of the Orthodox chapel (upper picture)
 
 ![Fu Dog sphere © Tyson Amick](./media/fu-dog.jpg){caption=1 width=600}
 
-An earth sphere under the Fu Dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. In the picture is one of the stone lions guarding the Jing'An Temple in Shanghai, China. Undated. (Photo © Tyson Amick<!-- cite author="Tyson Amick" title="Stone lions guarding the Jing'An Temple in Shanghai" date="" location="" type="website" href="http://www.travelpod.com/travel-blog/nonlinear/3/tpod.html" -->)
+An earth sphere under the Fu Dog (or male lion/Buddha). This is a common defender statue on the houses and temples in the Ming and Qing dynasties. The picture is of one of the stone lions guarding the Jing'An Temple in Shanghai, China. Undated. (Photo © Tyson Amick<!-- cite author="Tyson Amick" title="Stone lions guarding the Jing'An Temple in Shanghai" date="" location="" type="website" href="http://www.travelpod.com/travel-blog/nonlinear/3/tpod.html" -->)
 
 <!-- endnopb -->
 <!-- nopb -->

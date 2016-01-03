@@ -1,6 +1,6 @@
 # Flower of Life versus Cownose
 
-The square shape and square root of 2 are apparent on the Cownose pattern. Equilateral triangle and hexagon shape with the square root of 3 -property are fundamental in the FOL. All these properties were known by Old Babylonians as it is shown in the book *A Remarkable Collection of Babylonian Mathematical Texts*<!-- cite author="Joran Friberg" title="A Remarkable Collection of Babylonian Mathematical Texts" date="2007" location="MS 3051 on the page 207" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" --> by Joran Friberg. See also clay tablets: IM 52916<!-- cite author="David Fowler and Eleanor Robson" title="Square Root Approximations in Old Babylonian Mathematics" date="1998" location="" type="article" href="http://math.berkeley.edu/~lpachter/128a/Babylonian_sqrt2.pdf" --> and Susu<!-- cite author="Swapan Kumar Adhikaari" title="Babylonian mathematics" date="1997" location="" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" -->.
+Square shape and square root of 2 are apparent on the Cownose pattern. Equilateral triangle and hexagon shape with the square root of 3 -property are fundamental in the FOL. All these properties were known by Old Babylonians as it is shown in the book *A Remarkable Collection of Babylonian Mathematical Texts*<!-- cite author="Joran Friberg" title="A Remarkable Collection of Babylonian Mathematical Texts" date="2007" location="MS 3051 on the page 207" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" --> by Joran Friberg. See also clay tablets: IM 52916<!-- cite author="David Fowler and Eleanor Robson" title="Square Root Approximations in Old Babylonian Mathematics" date="1998" location="" type="article" href="http://math.berkeley.edu/~lpachter/128a/Babylonian_sqrt2.pdf" --> and Susu<!-- cite author="Swapan Kumar Adhikaari" title="Babylonian mathematics" date="1997" location="" type="article" href="http://www.new1.dli.ernet.in/data1/upload/insa/INSA_2/20005a5d_1.pdf" -->.
 
 But there are incidents in the ancient history that urge the appearance of the FOL before 2000 BC. These incidents are the sexagesimal numeral system, rhombic cone mosaics, and six-petal cylinder seals.
 
@@ -10,7 +10,7 @@ Sexagesimal place value system was known in the ancient Mesopotamia in the 3rd m
 
 > ...these geometrical facts show that there is a geometrical link between the circle and the sexagesimal system and that the division of the circle in 360 equal parts, which corresponds to 360 equal angles or degrees', isn't a choice that is completely independent of the geometry because this division can be suggested by the basic properties of the circles and the equilateral triangles.
 
-The FOL and the sexagesimal system both shares same geometrical and mathematical properties. It means they would mutually benefit from the existence of each other.
+The FOL and the sexagesimal system both share the same geometrical and mathematical properties. It means they would mutually benefit from the existence of each other.
 
 ![Abacus or calculation table in base 60 © Jaime Vladimir Torres-Heredia](./media/abacus-table.png){caption=1 width=300}
 
@@ -29,18 +29,18 @@ The Sumerian brown stone cylinder seal<!-- cite author="christies.com" title="Th
 
 **Trivial design**
 
-The creation of the FOL symbol is started by drawing six intersecting circles around the seventh central circle. The FOL is easier to draw than the Cownose with a plain drafting compass (or a divider). In the FOL, you continue forming the pattern from simple and direct intersection points. In the Cownose pattern, you need to find perpendicular lines and right angles with a more complicated procedure. We can verify this by doing both figures manually. Thus, we could expect to see the FOL appearing on artifacts before the Cownose.
+The creation of the FOL symbol is begun by drawing six intersecting circles around the seventh central circle. The FOL is easier to draw than the Cownose since it can be done with a plain drafting compass (or a divider). In the FOL, you continue forming the pattern from direct intersection points. In the Cownose pattern, you need a more complicated procedure to find perpendicular lines and right angles with a more complicated procedure. We can verify this by doing both figures manually. Thus, we could expect to see the FOL pattern appear on artifacts before the Cownose.
 
-But surprisingly sum and substance based strictly on known artifacts is that four (and eight) -pointed shapes like the Cownose were antecedent and far more prominent. Only later six-pointed shapes like the FOL seems to have been used as a decoration motif.
+But surprisingly, evidence based strictly on known artifacts is that four (and eight) -pointed shapes like the Cownose were antecedent and far more prominent. Only later on six-pointed shapes like the FOL seems to have been used as a decoration motif.
 
-Based on above considerations, we can safely make the next conjecture:
+Based on the above considerations, we can safely make the next conjecture:
 
 <!-- note -->
 
-Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC. In the beginning of the 2nd millennium BC, people were playing with construction elements and pattern we find in the Flower of Life symbol.
+Prerequisite for the generation of the FOL was fulfilled in the ancient Mesopotamia already in the 3rd millennium BC. In the beginning of the 2nd millennium BC, people were playing with construction elements and patterns that we find in the Flower of Life symbol.
 
 <!-- endnote -->
 
-Strictly speaking, first occurrences of the FOL are available on artifacts from 1600 - 1500 BC. And the first FOL as a complete symbol as Melchizedek has described it, is from Marlik, 1400 - 1100 BC. That is, if the occurrence from Abydos is not counted because of dating debate around it.
+Strictly speaking, the first occurrences of the FOL are available on artifacts from 1600 - 1500 BC. And the first FOL as a complete symbol as Melchizedek has described it, is from Marlik, 1400 - 1100 BC. That is, if the occurrence from Abydos is not counted because of the debate on dating it.
 
 {% include 'footnotes.md' %}
