@@ -109,6 +109,10 @@ sup:before {
     content: " ";
 }
 
+.book .book-body .page-wrapper .page-inner section.normal sup a {
+    font-size: 11px;
+}
+
 .book .book-body .page-wrapper .page-inner section.normal ul.citations,
 .book .book-body .page-wrapper .page-inner section.normal ul.references {
     margin-left: -30px;
