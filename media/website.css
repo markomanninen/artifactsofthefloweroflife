@@ -100,17 +100,17 @@ ul.pictures li span {
 
 /* citations */
 
-sup {
+.book .book-body .page-wrapper .page-inner section.normal sup {
     margin-left: -1px;
     margin-right: 2px;
 }
 
-sup:before {
+.book .book-body .page-wrapper .page-inner section.normal sup:before {
     content: " ";
 }
 
 .book .book-body .page-wrapper .page-inner section.normal sup a {
-    font-size: 11px;
+    font-size: 75%;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal ul.citations,
