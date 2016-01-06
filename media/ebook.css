@@ -172,6 +172,20 @@ div.googlemaps {
     font-style: italic;
 }
 
+/* self referential footnotes */
+
+.page .section div[type="selfref"] a[href="#"],
+.page .section div[type="selfref"] a[href="#"]:link,
+.page .section div[type="selfref"] a[href="#"]:visited,
+.page .section div[type="selfref"] a[href="#"]:hover,
+.page .section div[type="selfref"] a[href="#"]:focus {
+    font-style: normal;
+}
+
+.page .section div[type="selfref"] span:nth-child(1) {
+    display: none;
+}
+
 /* page header and footer */
 
 .pdf-footer,

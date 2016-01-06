@@ -118,18 +118,18 @@ ul.pictures li span {
     margin-left: -30px;
 }
 
-ul.citations li:nth-child(1) {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li:nth-child(1) {
     margin-top: 20px;
     padding-top: 20px;
     border-top: 1px solid #BBB;
 }
 
-ul.citations li,
-ul.references li {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li,
+.book .book-body .page-wrapper .page-inner section.normal ul.references li {
     list-style: outside none none;
 }
 
-ul.citations li {
+.book .book-body .page-wrapper .page-inner section.normal ul.citations li {
     font-size: 80%;
 }
 
@@ -162,6 +162,20 @@ ul.citations li {
     color: inherit;
     cursor: text;
     font-style: italic;
+}
+
+/* self referential footnotes */
+
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"],
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:link,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:visited,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:hover,
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] a[href="#"]:focus {
+    font-style: normal;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] span:nth-child(1) {
+    display: none;
 }
 
 /*
