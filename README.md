@@ -7,7 +7,7 @@ The reader of this document is expected to be familiar with basics of the Flower
 
 I hope my independent research provides a valuable resource for people to do further investigation in the topic.
 
-An electronic book called Artifacts of the Flower of Life is published in four different formats: [Online](http://artifacts.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/artifacts-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/artifacts-of-the-flower-of-life), and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/artifacts-of-the-flower-of-life)
+An electronic book called Artifacts of the Flower of Life is published in four different formats: [Online](http://artifacts.flowerofliferesearch.com/), [PDF](http://www.gitbook.com/download/pdf/book/markomanninen/artifacts-of-the-flower-of-life), [EPUB](http://www.gitbook.com/download/epub/book/markomanninen/artifacts-of-the-flower-of-life), and [MOBI](http://www.gitbook.com/download/mobi/book/markomanninen/artifacts-of-the-flower-of-life).
 
 ---
 
