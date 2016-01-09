@@ -24,6 +24,38 @@ figcaption {
     display: block;
 }
 
+/* bar codes */
+
+figure#fig13\.1,
+figure#fig13\.2,
+figure#fig13\.3 {
+    float:left;
+    width: 31%;
+    margin: 0 5px;
+}
+
+figure#fig13\.1 img,
+figure#fig13\.2 img,
+figure#fig13\.3 img {
+    width: 75%;
+}
+
+figure#fig13\.1:after {
+    content: "PDF";
+}
+figure#fig13\.2:after {
+    content: "EPUB";
+}
+figure#fig13\.3:after {
+    content: "MOBI";
+}
+
+figure#fig13\.1 figcaption,
+figure#fig13\.2 figcaption,
+figure#fig13\.3 figcaption {
+    display: none;
+}
+
 /* table headers */
 
 #page-book-details .details-readme section table thead,
@@ -176,6 +208,13 @@ ul.pictures li span {
 
 .book .book-body .page-wrapper .page-inner section.normal div[type="selfref"] span:nth-child(1) {
     display: none;
+}
+
+/* backcover adjust */
+
+.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md {
+    width: 89%;
+    margin: 0 auto;
 }
 
 /*
