@@ -130,6 +130,14 @@ ul.pictures li span {
     margin-left: 100px;
 }
 
+/* remove barcode pictures */
+
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(1),
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(2),
+.book .book-body .page-wrapper .page-inner section.normal ul.pictures li:nth-child(3) {
+    display: none;
+}
+
 /* citations */
 
 .book .book-body .page-wrapper .page-inner section.normal sup {
@@ -216,6 +224,12 @@ ul.pictures li span {
     width: 89%;
     margin: 0 auto;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal div#backcover\.md div.author {
+    float:right;
+    width: 27%;
+}
+
 
 /*
 

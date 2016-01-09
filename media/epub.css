@@ -248,8 +248,9 @@ div.googlemaps {
 }
 
 .page .section div#backcover\.md div.author {
-    float:right;
-    width: 27%;
+	float: inherit;
+    width: auto;
+    padding-bottom: 10px;
 }
 
 /* page header and footer */
