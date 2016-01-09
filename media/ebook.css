@@ -97,6 +97,20 @@ div.note {
     margin-bottom: 0;
 }
 
+/* page break always after element on pdf/print definition */
+
+div.page-break {
+    page-break-inside: always;
+}
+
+div.page-break:before {
+    content: ' ';
+}
+
+.page .section.toc  {
+    page-break-inside: always;
+}
+
 /* quotes */
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
