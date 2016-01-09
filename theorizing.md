@@ -2,9 +2,9 @@
 
 The main goal of documenting and listing artifacts that contain the FOL symbol is to become more aware of the historical origin of the symbol. That's why I'd like to theoretize a bit on the origin of the FOL first. After speculations, I'm going to describe occurrences of the Flower of Life according to the three span of time:
 
-1. Early traces from 1500 BC to 200 BC
+1. Early traces from 1600 BC to 200 BC
 2. Beginning of the Common Era from 200 BC to 100 AD
-3. Common Era until Middle Age from 100 AD to 1500 AD 
+3. Common Era until Middle Age from 100 AD to 1600 AD 
 
 Then I will selectively list main occurrences of the FOL symbol accompanied by pictures.
 
