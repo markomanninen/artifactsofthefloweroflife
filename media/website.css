@@ -26,33 +26,33 @@ figcaption {
 
 /* bar codes */
 
-figure#fig13\.1,
-figure#fig13\.2,
-figure#fig13\.3 {
+figure#fig12\.1,
+figure#fig12\.2,
+figure#fig12\.3 {
     float:left;
     width: 31%;
     margin: 0 5px;
 }
 
-figure#fig13\.1 img,
-figure#fig13\.2 img,
-figure#fig13\.3 img {
+figure#fig12\.1 img,
+figure#fig12\.2 img,
+figure#fig12\.3 img {
     width: 75%;
 }
 
-figure#fig13\.1:after {
+figure#fig12\.1:after {
     content: "PDF";
 }
-figure#fig13\.2:after {
+figure#fig12\.2:after {
     content: "EPUB";
 }
-figure#fig13\.3:after {
+figure#fig12\.3:after {
     content: "MOBI";
 }
 
-figure#fig13\.1 figcaption,
-figure#fig13\.2 figcaption,
-figure#fig13\.3 figcaption {
+figure#fig12\.1 figcaption,
+figure#fig12\.2 figcaption,
+figure#fig12\.3 figcaption {
     display: none;
 }
 
