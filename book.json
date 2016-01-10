@@ -81,7 +81,7 @@
     },
     "pdf": {
         "headerTemplate": "<html><body><div id=\"pdf-header\" class=\"pdf-header\"><span>_SECTION_&nbsp;</span> <span class=\"header-pages-count sub\"><a href=\"http://artifacts.flowerofliferesearch.com\">http://artifacts.flowerofliferesearch.com</a></span></div><script>if (_PAGENUM_ == 68) document.getElementById('pdf-header').style.display = 'none'</script></body></html>",
-        "footerTemplate": "<html><body><div id=\"pdf-footer\" class=\"pdf-footer\"><span class=\"sub\">_TITLE_ | Published: 12/12/2015 | Updated: 01/09/2016 | _AUTHOR_ © 2016</span> <span class=\"footer-pages-count\"> _PAGENUM_</span></div><script>if (_PAGENUM_ == 68) document.getElementById('pdf-footer').style.display = 'none'</script></body></html>"
+        "footerTemplate": "<html><body><div id=\"pdf-footer\" class=\"pdf-footer\"><span class=\"sub\">_TITLE_ | Published: 12/12/2015 | Updated: 01/10/2016 | _AUTHOR_ © 2016</span> <span class=\"footer-pages-count\"> _PAGENUM_</span></div><script>if (_PAGENUM_ == 68) document.getElementById('pdf-footer').style.display = 'none'</script></body></html>"
     },
     "styles": {
         "website": "media/website.css",
