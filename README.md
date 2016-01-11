@@ -28,3 +28,4 @@ An electronic book called Artifacts of the Flower of Life is published in four d
 | **Website** | [http://artifacts.flowerofliferesearch.com](http://artifacts.flowerofliferesearch.com/) |
 
 <!-- endpagewrapper -->
+
