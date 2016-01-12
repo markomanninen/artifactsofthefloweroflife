@@ -251,6 +251,7 @@ div.googlemaps {
 	float: inherit;
     width: auto;
     padding-bottom: 10px;
+    text-align: center;
 }
 
 .page .section div#backcover\.md p:nth-child(1) br {

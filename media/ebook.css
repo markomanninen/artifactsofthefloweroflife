@@ -250,6 +250,7 @@ div.googlemaps {
 .page .section div#backcover\.md div.author {
     float:right;
     width: 27%;
+    text-align: center;
 }
 
 /* page header and footer */
